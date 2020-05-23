@@ -1,0 +1,4738 @@
+[
+    {
+        "Name": "Diederik Boer",
+        "Position": "G",
+        "Minutes_played": 90.0,
+        "Day_since_start": 0.0,
+        "Age": 37.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Kingsley Ehizibue",
+        "Position": "D",
+        "Minutes_played": 90.0,
+        "Day_since_start": 0.0,
+        "Age": 23.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Darryl Lachman",
+        "Position": "D",
+        "Minutes_played": 90.0,
+        "Day_since_start": 0.0,
+        "Age": 28.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Dirk Marcellis",
+        "Position": "D",
+        "Minutes_played": 90.0,
+        "Day_since_start": 0.0,
+        "Age": 30.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Bram Van Polen",
+        "Position": "D",
+        "Minutes_played": 90.0,
+        "Day_since_start": 0.0,
+        "Age": 32.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Gustavo Hamer",
+        "Position": "M",
+        "Minutes_played": 90.0,
+        "Day_since_start": 0.0,
+        "Age": 21.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Clint Leemans",
+        "Position": "M",
+        "Minutes_played": 90.0,
+        "Day_since_start": 0.0,
+        "Age": 22.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Denis Genreau",
+        "Position": "M",
+        "Minutes_played": 46.0,
+        "Day_since_start": 0.0,
+        "Age": 19.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Zian Flemming",
+        "Position": "M",
+        "Minutes_played": 87.0,
+        "Day_since_start": 0.0,
+        "Age": 20.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Vito van Crooy",
+        "Position": "A",
+        "Minutes_played": 90.0,
+        "Day_since_start": 0.0,
+        "Age": 22.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Mike van Duinen",
+        "Position": "A",
+        "Minutes_played": 90.0,
+        "Day_since_start": 0.0,
+        "Age": 26.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Warner Hahn",
+        "Position": "G",
+        "Minutes_played": 90.0,
+        "Day_since_start": 0.0,
+        "Age": 26.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Doke Schmidt",
+        "Position": "D",
+        "Minutes_played": 90.0,
+        "Day_since_start": 0.0,
+        "Age": 26.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Daniel H\u00f8egh",
+        "Position": "D",
+        "Minutes_played": 90.0,
+        "Day_since_start": 0.0,
+        "Age": 27.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Dave Bulthuis",
+        "Position": "D",
+        "Minutes_played": 90.0,
+        "Day_since_start": 0.0,
+        "Age": 28.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Kik Pierie",
+        "Position": "D",
+        "Minutes_played": 90.0,
+        "Day_since_start": 0.0,
+        "Age": 18.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Morten Thorsby",
+        "Position": "M",
+        "Minutes_played": 55.0,
+        "Day_since_start": 0.0,
+        "Age": 22.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Yuki Kobayashi",
+        "Position": "M",
+        "Minutes_played": 90.0,
+        "Day_since_start": 0.0,
+        "Age": 26.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Michel Vlap",
+        "Position": "M",
+        "Minutes_played": 87.0,
+        "Day_since_start": 0.0,
+        "Age": 21.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Nemanja Mihajlovi\u0107",
+        "Position": "A",
+        "Minutes_played": 59.0,
+        "Day_since_start": 0.0,
+        "Age": 22.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Sam Lammers",
+        "Position": "A",
+        "Minutes_played": 90.0,
+        "Day_since_start": 0.0,
+        "Age": 21.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Arb\u00ebr Zeneli",
+        "Position": "A",
+        "Minutes_played": 66.0,
+        "Day_since_start": 0.0,
+        "Age": 23.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "T. Wellenreuther",
+        "Position": "G",
+        "Minutes_played": 90.0,
+        "Day_since_start": 1.0,
+        "Age": 22.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "D. Dankerlui",
+        "Position": "D",
+        "Minutes_played": 90.0,
+        "Day_since_start": 1.0,
+        "Age": 21.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "F. Lewis",
+        "Position": "D",
+        "Minutes_played": 90.0,
+        "Day_since_start": 1.0,
+        "Age": 25.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "F. Heerkens",
+        "Position": "D",
+        "Minutes_played": 90.0,
+        "Day_since_start": 1.0,
+        "Age": 28.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "J. Mcgarry",
+        "Position": "M",
+        "Minutes_played": 63.0,
+        "Day_since_start": 1.0,
+        "Age": 20.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Pol Llonch",
+        "Position": "M",
+        "Minutes_played": 76.0,
+        "Day_since_start": 1.0,
+        "Age": 25.0,
+        "Injured": "Yes"
+    },
+    {
+        "Name": "D. Crowley",
+        "Position": "M",
+        "Minutes_played": 90.0,
+        "Day_since_start": 1.0,
+        "Age": 21.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "E. Lieftink",
+        "Position": "M",
+        "Minutes_played": 90.0,
+        "Day_since_start": 1.0,
+        "Age": 24.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "J. Croux",
+        "Position": "A",
+        "Minutes_played": 90.0,
+        "Day_since_start": 1.0,
+        "Age": 24.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Fran Sol",
+        "Position": "A",
+        "Minutes_played": 90.0,
+        "Day_since_start": 1.0,
+        "Age": 26.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "D. Palacios",
+        "Position": "D",
+        "Minutes_played": 90.0,
+        "Day_since_start": 1.0,
+        "Age": 19.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "L. Unnerstall",
+        "Position": "G",
+        "Minutes_played": 90.0,
+        "Day_since_start": 1.0,
+        "Age": 28.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "C. Kum",
+        "Position": "D",
+        "Minutes_played": 90.0,
+        "Day_since_start": 1.0,
+        "Age": 32.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "J. Promes",
+        "Position": "D",
+        "Minutes_played": 90.0,
+        "Day_since_start": 1.0,
+        "Age": 34.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "N. R\u00f6seler",
+        "Position": "D",
+        "Minutes_played": 90.0,
+        "Day_since_start": 1.0,
+        "Age": 26.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "R. Janssen",
+        "Position": "D",
+        "Minutes_played": 90.0,
+        "Day_since_start": 1.0,
+        "Age": 28.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "M. Rutten",
+        "Position": "D",
+        "Minutes_played": 90.0,
+        "Day_since_start": 1.0,
+        "Age": 25.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "D. Post",
+        "Position": "M",
+        "Minutes_played": 90.0,
+        "Day_since_start": 1.0,
+        "Age": 29.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "T. Su\u0161i\u0107",
+        "Position": "M",
+        "Minutes_played": 90.0,
+        "Day_since_start": 1.0,
+        "Age": 26.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "P. van Ooijen",
+        "Position": "M",
+        "Minutes_played": 74.0,
+        "Day_since_start": 1.0,
+        "Age": 26.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "R. Seuntjens",
+        "Position": "M",
+        "Minutes_played": 65.0,
+        "Day_since_start": 1.0,
+        "Age": 29.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "M. Samuelsen",
+        "Position": "M",
+        "Minutes_played": 82.0,
+        "Day_since_start": 1.0,
+        "Age": 21.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "A. Onana",
+        "Position": "G",
+        "Minutes_played": 90.0,
+        "Day_since_start": 1.0,
+        "Age": 22.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "N. Mazraoui",
+        "Position": "D",
+        "Minutes_played": 90.0,
+        "Day_since_start": 1.0,
+        "Age": 20.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "M. de Ligt",
+        "Position": "D",
+        "Minutes_played": 90.0,
+        "Day_since_start": 1.0,
+        "Age": 18.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "D. Blind",
+        "Position": "D",
+        "Minutes_played": 90.0,
+        "Day_since_start": 1.0,
+        "Age": 28.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "M. W\u00f6ber",
+        "Position": "D",
+        "Minutes_played": 56.0,
+        "Day_since_start": 1.0,
+        "Age": 20.0,
+        "Injured": "Yes"
+    },
+    {
+        "Name": "C. Eiting",
+        "Position": "M",
+        "Minutes_played": 90.0,
+        "Day_since_start": 1.0,
+        "Age": 20.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "H. Ziyech",
+        "Position": "M",
+        "Minutes_played": 90.0,
+        "Day_since_start": 1.0,
+        "Age": 25.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "D. van de Beek",
+        "Position": "M",
+        "Minutes_played": 90.0,
+        "Day_since_start": 1.0,
+        "Age": 21.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "D. Tadi\u0107",
+        "Position": "M",
+        "Minutes_played": 90.0,
+        "Day_since_start": 1.0,
+        "Age": 29.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "K. Sierhuis",
+        "Position": "A",
+        "Minutes_played": 56.0,
+        "Day_since_start": 1.0,
+        "Age": 20.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "David Neres",
+        "Position": "A",
+        "Minutes_played": 85.0,
+        "Day_since_start": 1.0,
+        "Age": 21.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "J. Blaswich",
+        "Position": "G",
+        "Minutes_played": 90.0,
+        "Day_since_start": 1.0,
+        "Age": 27.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "W. Droste",
+        "Position": "D",
+        "Minutes_played": 79.0,
+        "Day_since_start": 1.0,
+        "Age": 29.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "M. Rossmann",
+        "Position": "D",
+        "Minutes_played": 90.0,
+        "Day_since_start": 1.0,
+        "Age": 23.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "R. Pr\u00f6pper",
+        "Position": "D",
+        "Minutes_played": 90.0,
+        "Day_since_start": 1.0,
+        "Age": 24.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "B. van Hintum",
+        "Position": "D",
+        "Minutes_played": 82.0,
+        "Day_since_start": 1.0,
+        "Age": 31.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "M. Osman",
+        "Position": "M",
+        "Minutes_played": 90.0,
+        "Day_since_start": 1.0,
+        "Age": 24.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "L. Duarte",
+        "Position": "M",
+        "Minutes_played": 90.0,
+        "Day_since_start": 1.0,
+        "Age": 28.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Y. van Nieff",
+        "Position": "D",
+        "Minutes_played": 90.0,
+        "Day_since_start": 1.0,
+        "Age": 25.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "B. Kuwas",
+        "Position": "A",
+        "Minutes_played": 77.0,
+        "Day_since_start": 1.0,
+        "Age": 25.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Adri\u00e1n Dalmau",
+        "Position": "A",
+        "Minutes_played": 90.0,
+        "Day_since_start": 1.0,
+        "Age": 24.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "K. Peterson",
+        "Position": "A",
+        "Minutes_played": 90.0,
+        "Day_since_start": 1.0,
+        "Age": 23.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "J. Zoet",
+        "Position": "G",
+        "Minutes_played": 90.0,
+        "Day_since_start": 1.0,
+        "Age": 27.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "D. Dumfries",
+        "Position": "D",
+        "Minutes_played": 90.0,
+        "Day_since_start": 1.0,
+        "Age": 22.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "D. Schwaab",
+        "Position": "D",
+        "Minutes_played": 90.0,
+        "Day_since_start": 1.0,
+        "Age": 29.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "N. Viergever",
+        "Position": "D",
+        "Minutes_played": 90.0,
+        "Day_since_start": 1.0,
+        "Age": 29.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Angeli\u00f1o",
+        "Position": "D",
+        "Minutes_played": 90.0,
+        "Day_since_start": 1.0,
+        "Age": 21.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "P. Rosario",
+        "Position": "M",
+        "Minutes_played": 67.0,
+        "Day_since_start": 1.0,
+        "Age": 21.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "G. Pereiro",
+        "Position": "M",
+        "Minutes_played": 81.0,
+        "Day_since_start": 1.0,
+        "Age": 23.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "J. Hendrix",
+        "Position": "M",
+        "Minutes_played": 90.0,
+        "Day_since_start": 1.0,
+        "Age": 23.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "S. Bergwijn",
+        "Position": "A",
+        "Minutes_played": 86.0,
+        "Day_since_start": 1.0,
+        "Age": 20.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "L. de Jong",
+        "Position": "A",
+        "Minutes_played": 90.0,
+        "Day_since_start": 1.0,
+        "Age": 27.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "H. Lozano",
+        "Position": "A",
+        "Minutes_played": 90.0,
+        "Day_since_start": 1.0,
+        "Age": 23.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "D. Jensen",
+        "Position": "G",
+        "Minutes_played": 90.0,
+        "Day_since_start": 1.0,
+        "Age": 26.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "G. Troup\u00e9e",
+        "Position": "D",
+        "Minutes_played": 71.0,
+        "Day_since_start": 1.0,
+        "Age": 20.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "R. Leeuwin",
+        "Position": "D",
+        "Minutes_played": 90.0,
+        "Day_since_start": 1.0,
+        "Age": 30.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "W. Janssen",
+        "Position": "D",
+        "Minutes_played": 90.0,
+        "Day_since_start": 1.0,
+        "Age": 32.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "M. van der Maarel",
+        "Position": "D",
+        "Minutes_played": 90.0,
+        "Day_since_start": 1.0,
+        "Age": 28.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "L. Guwara",
+        "Position": "D",
+        "Minutes_played": 90.0,
+        "Day_since_start": 1.0,
+        "Age": 22.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "S. Klaiber",
+        "Position": "D",
+        "Minutes_played": 90.0,
+        "Day_since_start": 1.0,
+        "Age": 24.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Simon Gustafson",
+        "Position": "M",
+        "Minutes_played": 90.0,
+        "Day_since_start": 1.0,
+        "Age": 23.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "U. Emanuelson",
+        "Position": "M",
+        "Minutes_played": 81.0,
+        "Day_since_start": 1.0,
+        "Age": 32.0,
+        "Injured": "Yes"
+    },
+    {
+        "Name": "S. van de Streek",
+        "Position": "M",
+        "Minutes_played": 90.0,
+        "Day_since_start": 1.0,
+        "Age": 25.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "G. Kerk",
+        "Position": "A",
+        "Minutes_played": 59.0,
+        "Day_since_start": 1.0,
+        "Age": 22.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Sonny Stevens",
+        "Position": "G",
+        "Minutes_played": 29.0,
+        "Day_since_start": 1.0,
+        "Age": 26.0,
+        "Injured": "Yes"
+    },
+    {
+        "Name": "Jeffrey Fortes",
+        "Position": "D",
+        "Minutes_played": 90.0,
+        "Day_since_start": 1.0,
+        "Age": 29.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Jurgen Matheij",
+        "Position": "D",
+        "Minutes_played": 90.0,
+        "Day_since_start": 1.0,
+        "Age": 25.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Herve Matthys",
+        "Position": "D",
+        "Minutes_played": 90.0,
+        "Day_since_start": 1.0,
+        "Age": 22.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Lorenzo Burnet",
+        "Position": "D",
+        "Minutes_played": 90.0,
+        "Day_since_start": 1.0,
+        "Age": 27.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Jerdy Schouten",
+        "Position": "M",
+        "Minutes_played": 90.0,
+        "Day_since_start": 1.0,
+        "Age": 21.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Ali Messaoud",
+        "Position": "M",
+        "Minutes_played": 90.0,
+        "Day_since_start": 1.0,
+        "Age": 27.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Ryan Koolwijk",
+        "Position": "M",
+        "Minutes_played": 90.0,
+        "Day_since_start": 1.0,
+        "Age": 33.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Mikael Anderson",
+        "Position": "M",
+        "Minutes_played": 90.0,
+        "Day_since_start": 1.0,
+        "Age": 20.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Anouar Hadouir",
+        "Position": "A",
+        "Minutes_played": 78.0,
+        "Day_since_start": 1.0,
+        "Age": 35.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Luigi Bruins",
+        "Position": "A",
+        "Minutes_played": 57.0,
+        "Day_since_start": 1.0,
+        "Age": 31.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Alexei Ko\u015felev",
+        "Position": "G",
+        "Minutes_played": 90.0,
+        "Day_since_start": 1.0,
+        "Age": 24.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Alessandro Ciranni",
+        "Position": "D",
+        "Minutes_played": 90.0,
+        "Day_since_start": 1.0,
+        "Age": 22.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Wessel Dammers",
+        "Position": "D",
+        "Minutes_played": 90.0,
+        "Day_since_start": 1.0,
+        "Age": 23.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Kai Heerings",
+        "Position": "D",
+        "Minutes_played": 90.0,
+        "Day_since_start": 1.0,
+        "Age": 28.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Mica",
+        "Position": "D",
+        "Minutes_played": 90.0,
+        "Day_since_start": 1.0,
+        "Age": 25.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Jorrit Smeets",
+        "Position": "M",
+        "Minutes_played": 69.0,
+        "Day_since_start": 1.0,
+        "Age": 23.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Ahmed El Messaoudi",
+        "Position": "M",
+        "Minutes_played": 90.0,
+        "Day_since_start": 1.0,
+        "Age": 23.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Mark Diemers",
+        "Position": "M",
+        "Minutes_played": 90.0,
+        "Day_since_start": 1.0,
+        "Age": 24.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Lisandro Semedo",
+        "Position": "A",
+        "Minutes_played": 90.0,
+        "Day_since_start": 1.0,
+        "Age": 22.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Andrija Novakovich",
+        "Position": "A",
+        "Minutes_played": 90.0,
+        "Day_since_start": 1.0,
+        "Age": 21.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Lars Hutten",
+        "Position": "M",
+        "Minutes_played": 81.0,
+        "Day_since_start": 1.0,
+        "Age": 28.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Indy Groothuizen",
+        "Position": "G",
+        "Minutes_played": 90.0,
+        "Day_since_start": 2.0,
+        "Age": 22.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Dion Malone",
+        "Position": "M",
+        "Minutes_played": 75.0,
+        "Day_since_start": 2.0,
+        "Age": 29.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Aaron Meijers",
+        "Position": "D",
+        "Minutes_played": 75.0,
+        "Day_since_start": 2.0,
+        "Age": 30.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Tom Beugelsdijk",
+        "Position": "D",
+        "Minutes_played": 90.0,
+        "Day_since_start": 2.0,
+        "Age": 28.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Wilfried Kanon",
+        "Position": "D",
+        "Minutes_played": 90.0,
+        "Day_since_start": 2.0,
+        "Age": 25.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Lex Immers",
+        "Position": "M",
+        "Minutes_played": 90.0,
+        "Day_since_start": 2.0,
+        "Age": 32.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Abdenasser El Khayati",
+        "Position": "M",
+        "Minutes_played": 90.0,
+        "Day_since_start": 2.0,
+        "Age": 29.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Danny Bakker",
+        "Position": "M",
+        "Minutes_played": 90.0,
+        "Day_since_start": 2.0,
+        "Age": 23.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Erik Falkenburg",
+        "Position": "A",
+        "Minutes_played": 90.0,
+        "Day_since_start": 2.0,
+        "Age": 30.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Melvyn Lorenzen",
+        "Position": "A",
+        "Minutes_played": 58.0,
+        "Day_since_start": 2.0,
+        "Age": 23.0,
+        "Injured": "Yes"
+    },
+    {
+        "Name": "Sheraldo Becker",
+        "Position": "A",
+        "Minutes_played": 90.0,
+        "Day_since_start": 2.0,
+        "Age": 23.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Kjell Scherpen",
+        "Position": "G",
+        "Minutes_played": 90.0,
+        "Day_since_start": 2.0,
+        "Age": 18.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Gersom Klok",
+        "Position": "D",
+        "Minutes_played": 90.0,
+        "Day_since_start": 2.0,
+        "Age": 27.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Caner Cavlan",
+        "Position": "D",
+        "Minutes_played": 90.0,
+        "Day_since_start": 2.0,
+        "Age": 26.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Nick Bakker",
+        "Position": "D",
+        "Minutes_played": 90.0,
+        "Day_since_start": 2.0,
+        "Age": 26.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Keziah Veendorp",
+        "Position": "D",
+        "Minutes_played": 90.0,
+        "Day_since_start": 2.0,
+        "Age": 21.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Luciano Slagveer",
+        "Position": "A",
+        "Minutes_played": 90.0,
+        "Day_since_start": 2.0,
+        "Age": 24.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Hilal Ben Moussa",
+        "Position": "M",
+        "Minutes_played": 79.0,
+        "Day_since_start": 2.0,
+        "Age": 26.0,
+        "Injured": "Yes"
+    },
+    {
+        "Name": "Wouter Marinus",
+        "Position": "M",
+        "Minutes_played": 90.0,
+        "Day_since_start": 2.0,
+        "Age": 23.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Glenn Bijl",
+        "Position": "M",
+        "Minutes_played": 90.0,
+        "Day_since_start": 2.0,
+        "Age": 23.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Nicklas Pedersen",
+        "Position": "A",
+        "Minutes_played": 68.0,
+        "Day_since_start": 2.0,
+        "Age": 30.0,
+        "Injured": "Yes"
+    },
+    {
+        "Name": "Anco Jansen",
+        "Position": "A",
+        "Minutes_played": 90.0,
+        "Day_since_start": 2.0,
+        "Age": 29.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Hidde Jurjus",
+        "Position": "G",
+        "Minutes_played": 90.0,
+        "Day_since_start": 2.0,
+        "Age": 24.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Myenty Abena",
+        "Position": "D",
+        "Minutes_played": 90.0,
+        "Day_since_start": 2.0,
+        "Age": 23.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Sven Nieuwpoort",
+        "Position": "D",
+        "Minutes_played": 90.0,
+        "Day_since_start": 2.0,
+        "Age": 25.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Ted Van de Pavert",
+        "Position": "D",
+        "Minutes_played": 90.0,
+        "Day_since_start": 2.0,
+        "Age": 26.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Leeroy Owusu",
+        "Position": "D",
+        "Minutes_played": 74.0,
+        "Day_since_start": 2.0,
+        "Age": 21.0,
+        "Injured": "Yes"
+    },
+    {
+        "Name": "Erik Bakker",
+        "Position": "M",
+        "Minutes_played": 62.0,
+        "Day_since_start": 2.0,
+        "Age": 28.0,
+        "Injured": "Yes"
+    },
+    {
+        "Name": "Stefan Nijland",
+        "Position": "M",
+        "Minutes_played": 90.0,
+        "Day_since_start": 2.0,
+        "Age": 30.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Jordy Tutuarima",
+        "Position": "D",
+        "Minutes_played": 90.0,
+        "Day_since_start": 2.0,
+        "Age": 25.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Daryl van Mieghem",
+        "Position": "A",
+        "Minutes_played": 69.0,
+        "Day_since_start": 2.0,
+        "Age": 28.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Fabian Serrarens",
+        "Position": "A",
+        "Minutes_played": 90.0,
+        "Day_since_start": 2.0,
+        "Age": 27.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Youssef El Jebli",
+        "Position": "M",
+        "Minutes_played": 90.0,
+        "Day_since_start": 2.0,
+        "Age": 25.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Justin Bijlow",
+        "Position": "G",
+        "Minutes_played": 90.0,
+        "Day_since_start": 2.0,
+        "Age": 20.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Jeremiah St. Juste",
+        "Position": "D",
+        "Minutes_played": 46.0,
+        "Day_since_start": 2.0,
+        "Age": 21.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Eric Botteghin",
+        "Position": "D",
+        "Minutes_played": 67.0,
+        "Day_since_start": 2.0,
+        "Age": 30.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Jan-Arie Van der Heijden",
+        "Position": "D",
+        "Minutes_played": 90.0,
+        "Day_since_start": 2.0,
+        "Age": 30.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Calvin Verdonk",
+        "Position": "D",
+        "Minutes_played": 90.0,
+        "Day_since_start": 2.0,
+        "Age": 21.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Jens Toornstra",
+        "Position": "M",
+        "Minutes_played": 80.0,
+        "Day_since_start": 2.0,
+        "Age": 29.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Jordy Clasie",
+        "Position": "M",
+        "Minutes_played": 90.0,
+        "Day_since_start": 2.0,
+        "Age": 27.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Tonny Vilhena",
+        "Position": "M",
+        "Minutes_played": 90.0,
+        "Day_since_start": 2.0,
+        "Age": 23.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Steven Berghuis",
+        "Position": "A",
+        "Minutes_played": 90.0,
+        "Day_since_start": 2.0,
+        "Age": 26.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Robin van Persie",
+        "Position": "A",
+        "Minutes_played": 74.0,
+        "Day_since_start": 2.0,
+        "Age": 35.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Jean-Paul Bo\u00ebtius",
+        "Position": "A",
+        "Minutes_played": 80.0,
+        "Day_since_start": 2.0,
+        "Age": 24.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Eduardo",
+        "Position": "G",
+        "Minutes_played": 90.0,
+        "Day_since_start": 2.0,
+        "Age": 35.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Vyacheslav Karavaev",
+        "Position": "D",
+        "Minutes_played": 90.0,
+        "Day_since_start": 2.0,
+        "Age": 23.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Maikel Van der Werff",
+        "Position": "D",
+        "Minutes_played": 90.0,
+        "Day_since_start": 2.0,
+        "Age": 29.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Jake Clarke-Salter",
+        "Position": "D",
+        "Minutes_played": 90.0,
+        "Day_since_start": 2.0,
+        "Age": 20.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Alexander B\u00fcttner",
+        "Position": "D",
+        "Minutes_played": 90.0,
+        "Day_since_start": 2.0,
+        "Age": 29.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Thulani Serero",
+        "Position": "M",
+        "Minutes_played": 90.0,
+        "Day_since_start": 2.0,
+        "Age": 28.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Mat\u00fa\u0161 Bero",
+        "Position": "M",
+        "Minutes_played": 90.0,
+        "Day_since_start": 2.0,
+        "Age": 22.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Navarone Foor",
+        "Position": "M",
+        "Minutes_played": 90.0,
+        "Day_since_start": 2.0,
+        "Age": 26.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Roy Beerens",
+        "Position": "A",
+        "Minutes_played": 82.0,
+        "Day_since_start": 2.0,
+        "Age": 30.0,
+        "Injured": "Yes"
+    },
+    {
+        "Name": "Tim Matavz",
+        "Position": "A",
+        "Minutes_played": 75.0,
+        "Day_since_start": 2.0,
+        "Age": 29.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Bryan Linssen",
+        "Position": "A",
+        "Minutes_played": 77.0,
+        "Day_since_start": 2.0,
+        "Age": 27.0,
+        "Injured": "Yes"
+    },
+    {
+        "Name": "Sergio Padt",
+        "Position": "G",
+        "Minutes_played": 90.0,
+        "Day_since_start": 2.0,
+        "Age": 28.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Deyovaisio Zeefuik",
+        "Position": "D",
+        "Minutes_played": 90.0,
+        "Day_since_start": 2.0,
+        "Age": 20.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Mike te Wierik",
+        "Position": "D",
+        "Minutes_played": 90.0,
+        "Day_since_start": 2.0,
+        "Age": 26.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Samir Memisevic",
+        "Position": "D",
+        "Minutes_played": 90.0,
+        "Day_since_start": 2.0,
+        "Age": 24.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Django Warmerdam",
+        "Position": "D",
+        "Minutes_played": 90.0,
+        "Day_since_start": 2.0,
+        "Age": 22.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Tom Van De Looi",
+        "Position": "M",
+        "Minutes_played": 90.0,
+        "Day_since_start": 2.0,
+        "Age": 19.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Ajdin Hrustic",
+        "Position": "M",
+        "Minutes_played": 90.0,
+        "Day_since_start": 2.0,
+        "Age": 22.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Ritsu Doan",
+        "Position": "M",
+        "Minutes_played": 90.0,
+        "Day_since_start": 2.0,
+        "Age": 20.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Jesper Drost",
+        "Position": "M",
+        "Minutes_played": 58.0,
+        "Day_since_start": 2.0,
+        "Age": 25.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Mimoun Mahi",
+        "Position": "M",
+        "Minutes_played": 90.0,
+        "Day_since_start": 2.0,
+        "Age": 24.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Tom Van Weert",
+        "Position": "A",
+        "Minutes_played": 72.0,
+        "Day_since_start": 2.0,
+        "Age": 28.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Marco Bizot",
+        "Position": "G",
+        "Minutes_played": 90.0,
+        "Day_since_start": 2.0,
+        "Age": 27.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Jonas Svensson",
+        "Position": "D",
+        "Minutes_played": 90.0,
+        "Day_since_start": 2.0,
+        "Age": 25.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Pantelis Hatzidiakos",
+        "Position": "D",
+        "Minutes_played": 90.0,
+        "Day_since_start": 2.0,
+        "Age": 21.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Ron Vlaar",
+        "Position": "D",
+        "Minutes_played": 81.0,
+        "Day_since_start": 2.0,
+        "Age": 33.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Thomas Ouwejan",
+        "Position": "D",
+        "Minutes_played": 90.0,
+        "Day_since_start": 2.0,
+        "Age": 21.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Guus Til",
+        "Position": "M",
+        "Minutes_played": 90.0,
+        "Day_since_start": 2.0,
+        "Age": 20.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Fredrik Midtsj\u00f8",
+        "Position": "M",
+        "Minutes_played": 76.0,
+        "Day_since_start": 2.0,
+        "Age": 25.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Teun Koopmeiners",
+        "Position": "M",
+        "Minutes_played": 90.0,
+        "Day_since_start": 2.0,
+        "Age": 20.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Mats Seuntjens",
+        "Position": "A",
+        "Minutes_played": 90.0,
+        "Day_since_start": 2.0,
+        "Age": 26.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Myron Boadu",
+        "Position": "A",
+        "Minutes_played": 81.0,
+        "Day_since_start": 2.0,
+        "Age": 17.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Oussama Idrissi",
+        "Position": "A",
+        "Minutes_played": 90.0,
+        "Day_since_start": 2.0,
+        "Age": 22.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Mark Birighitti",
+        "Position": "G",
+        "Minutes_played": 90.0,
+        "Day_since_start": 2.0,
+        "Age": 27.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Fabian Sporkslede",
+        "Position": "D",
+        "Minutes_played": 90.0,
+        "Day_since_start": 2.0,
+        "Age": 25.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Menno Koch",
+        "Position": "D",
+        "Minutes_played": 90.0,
+        "Day_since_start": 2.0,
+        "Age": 24.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Karol Mets",
+        "Position": "D",
+        "Minutes_played": 90.0,
+        "Day_since_start": 2.0,
+        "Age": 25.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Greg Leigh",
+        "Position": "D",
+        "Minutes_played": 90.0,
+        "Day_since_start": 2.0,
+        "Age": 23.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Arno Verschueren",
+        "Position": "M",
+        "Minutes_played": 90.0,
+        "Day_since_start": 2.0,
+        "Age": 21.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Anouar Kali",
+        "Position": "M",
+        "Minutes_played": 90.0,
+        "Day_since_start": 2.0,
+        "Age": 27.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Mikhael Rosheuvel",
+        "Position": "M",
+        "Minutes_played": 90.0,
+        "Day_since_start": 2.0,
+        "Age": 28.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Mounir El Allouchi",
+        "Position": "M",
+        "Minutes_played": 90.0,
+        "Day_since_start": 2.0,
+        "Age": 23.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Gervane Kastaneer",
+        "Position": "A",
+        "Minutes_played": 46.0,
+        "Day_since_start": 2.0,
+        "Age": 22.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Mitchell Te Vrede",
+        "Position": "A",
+        "Minutes_played": 70.0,
+        "Day_since_start": 2.0,
+        "Age": 27.0,
+        "Injured": "Yes"
+    },
+    {
+        "Name": "Sergio Padt",
+        "Position": "G",
+        "Minutes_played": 90.0,
+        "Day_since_start": 7.0,
+        "Age": 28.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Deyovaisio Zeefuik",
+        "Position": "D",
+        "Minutes_played": 90.0,
+        "Day_since_start": 7.0,
+        "Age": 20.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Mike te Wierik",
+        "Position": "D",
+        "Minutes_played": 90.0,
+        "Day_since_start": 7.0,
+        "Age": 26.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Samir Memisevic",
+        "Position": "D",
+        "Minutes_played": 90.0,
+        "Day_since_start": 7.0,
+        "Age": 25.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Django Warmerdam",
+        "Position": "D",
+        "Minutes_played": 90.0,
+        "Day_since_start": 7.0,
+        "Age": 22.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Tom Van De Looi",
+        "Position": "M",
+        "Minutes_played": 72.0,
+        "Day_since_start": 7.0,
+        "Age": 19.0,
+        "Injured": "Yes"
+    },
+    {
+        "Name": "Ajdin Hrustic",
+        "Position": "M",
+        "Minutes_played": 90.0,
+        "Day_since_start": 7.0,
+        "Age": 22.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Ritsu Doan",
+        "Position": "M",
+        "Minutes_played": 90.0,
+        "Day_since_start": 7.0,
+        "Age": 20.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Jesper Drost",
+        "Position": "M",
+        "Minutes_played": 46.0,
+        "Day_since_start": 7.0,
+        "Age": 25.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Mimoun Mahi",
+        "Position": "M",
+        "Minutes_played": 46.0,
+        "Day_since_start": 7.0,
+        "Age": 24.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Tom Van Weert",
+        "Position": "A",
+        "Minutes_played": 90.0,
+        "Day_since_start": 7.0,
+        "Age": 28.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Timon Wellenreuther",
+        "Position": "G",
+        "Minutes_played": 90.0,
+        "Day_since_start": 7.0,
+        "Age": 22.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Damil Dankerlui",
+        "Position": "D",
+        "Minutes_played": 90.0,
+        "Day_since_start": 7.0,
+        "Age": 21.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Fernando Lewis",
+        "Position": "D",
+        "Minutes_played": 90.0,
+        "Day_since_start": 7.0,
+        "Age": 25.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Freek Heerkens",
+        "Position": "D",
+        "Minutes_played": 90.0,
+        "Day_since_start": 7.0,
+        "Age": 28.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "James McGarry",
+        "Position": "M",
+        "Minutes_played": 64.0,
+        "Day_since_start": 7.0,
+        "Age": 20.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Pol Llonch",
+        "Position": "M",
+        "Minutes_played": 90.0,
+        "Day_since_start": 7.0,
+        "Age": 25.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Dan Crowley",
+        "Position": "M",
+        "Minutes_played": 90.0,
+        "Day_since_start": 7.0,
+        "Age": 21.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Atakan Akkaynak",
+        "Position": "M",
+        "Minutes_played": 79.0,
+        "Day_since_start": 7.0,
+        "Age": 19.0,
+        "Injured": "Yes"
+    },
+    {
+        "Name": "Jordy Croux",
+        "Position": "A",
+        "Minutes_played": 46.0,
+        "Day_since_start": 7.0,
+        "Age": 24.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Fran Sol",
+        "Position": "A",
+        "Minutes_played": 90.0,
+        "Day_since_start": 7.0,
+        "Age": 26.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Diego Palacios",
+        "Position": "D",
+        "Minutes_played": 90.0,
+        "Day_since_start": 7.0,
+        "Age": 19.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "A. Muri\u0107",
+        "Position": "G",
+        "Minutes_played": 90.0,
+        "Day_since_start": 8.0,
+        "Age": 19.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "A. Verschueren",
+        "Position": "M",
+        "Minutes_played": 90.0,
+        "Day_since_start": 8.0,
+        "Age": 21.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "M. Koch",
+        "Position": "D",
+        "Minutes_played": 90.0,
+        "Day_since_start": 8.0,
+        "Age": 24.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "K. Mets",
+        "Position": "D",
+        "Minutes_played": 90.0,
+        "Day_since_start": 8.0,
+        "Age": 25.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "G. Leigh",
+        "Position": "D",
+        "Minutes_played": 71.0,
+        "Day_since_start": 8.0,
+        "Age": 23.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "A. Kali",
+        "Position": "M",
+        "Minutes_played": 90.0,
+        "Day_since_start": 8.0,
+        "Age": 27.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "G. Nijholt",
+        "Position": "M",
+        "Minutes_played": 90.0,
+        "Day_since_start": 8.0,
+        "Age": 28.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "M. Rosheuvel",
+        "Position": "A",
+        "Minutes_played": 90.0,
+        "Day_since_start": 8.0,
+        "Age": 28.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "M. El Allouchi",
+        "Position": "M",
+        "Minutes_played": 90.0,
+        "Day_since_start": 8.0,
+        "Age": 23.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "M. te Vrede",
+        "Position": "A",
+        "Minutes_played": 90.0,
+        "Day_since_start": 8.0,
+        "Age": 27.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "H. Jurjus",
+        "Position": "G",
+        "Minutes_played": 90.0,
+        "Day_since_start": 8.0,
+        "Age": 24.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "M. Abena",
+        "Position": "D",
+        "Minutes_played": 62.0,
+        "Day_since_start": 8.0,
+        "Age": 23.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "S. Nieuwpoort",
+        "Position": "D",
+        "Minutes_played": 90.0,
+        "Day_since_start": 8.0,
+        "Age": 25.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "T. van de Pavert",
+        "Position": "D",
+        "Minutes_played": 90.0,
+        "Day_since_start": 8.0,
+        "Age": 26.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "L. Owusu",
+        "Position": "D",
+        "Minutes_played": 90.0,
+        "Day_since_start": 8.0,
+        "Age": 22.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "E. Bakker",
+        "Position": "M",
+        "Minutes_played": 90.0,
+        "Day_since_start": 8.0,
+        "Age": 28.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "S. Nijland",
+        "Position": "M",
+        "Minutes_played": 46.0,
+        "Day_since_start": 8.0,
+        "Age": 30.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "J. Tutuarima",
+        "Position": "D",
+        "Minutes_played": 90.0,
+        "Day_since_start": 8.0,
+        "Age": 25.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "D. van Mieghem",
+        "Position": "A",
+        "Minutes_played": 57.0,
+        "Day_since_start": 8.0,
+        "Age": 28.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "F. Serrarens",
+        "Position": "A",
+        "Minutes_played": 90.0,
+        "Day_since_start": 8.0,
+        "Age": 27.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Y. El Jebli",
+        "Position": "M",
+        "Minutes_played": 90.0,
+        "Day_since_start": 8.0,
+        "Age": 25.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "L. Ili\u0107",
+        "Position": "M",
+        "Minutes_played": 81.0,
+        "Day_since_start": 8.0,
+        "Age": 19.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Lars Unnerstall",
+        "Position": "G",
+        "Minutes_played": 90.0,
+        "Day_since_start": 8.0,
+        "Age": 28.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Christian Kum",
+        "Position": "D",
+        "Minutes_played": 90.0,
+        "Day_since_start": 8.0,
+        "Age": 32.0,
+        "Injured": "Yes"
+    },
+    {
+        "Name": "Nils R\u00f6seler",
+        "Position": "D",
+        "Minutes_played": 90.0,
+        "Day_since_start": 8.0,
+        "Age": 26.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Jerold Promes",
+        "Position": "D",
+        "Minutes_played": 90.0,
+        "Day_since_start": 8.0,
+        "Age": 34.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Moreno Rutten",
+        "Position": "D",
+        "Minutes_played": 90.0,
+        "Day_since_start": 8.0,
+        "Age": 25.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Danny Post",
+        "Position": "M",
+        "Minutes_played": 90.0,
+        "Day_since_start": 8.0,
+        "Age": 29.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Peter van Ooijen",
+        "Position": "M",
+        "Minutes_played": 90.0,
+        "Day_since_start": 8.0,
+        "Age": 26.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Jay-Roy Grot",
+        "Position": "A",
+        "Minutes_played": 74.0,
+        "Day_since_start": 8.0,
+        "Age": 20.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Ralf Seuntjens",
+        "Position": "M",
+        "Minutes_played": 70.0,
+        "Day_since_start": 8.0,
+        "Age": 29.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Martin Samuelsen",
+        "Position": "M",
+        "Minutes_played": 90.0,
+        "Day_since_start": 8.0,
+        "Age": 21.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Andr\u00e9 Onana",
+        "Position": "G",
+        "Minutes_played": 90.0,
+        "Day_since_start": 8.0,
+        "Age": 22.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Noussair Mazraoui",
+        "Position": "D",
+        "Minutes_played": 90.0,
+        "Day_since_start": 8.0,
+        "Age": 20.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Matthijs De Ligt",
+        "Position": "D",
+        "Minutes_played": 90.0,
+        "Day_since_start": 8.0,
+        "Age": 19.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Daley Blind",
+        "Position": "D",
+        "Minutes_played": 82.0,
+        "Day_since_start": 8.0,
+        "Age": 28.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Nicol\u00e1s Tagliafico",
+        "Position": "D",
+        "Minutes_played": 90.0,
+        "Day_since_start": 8.0,
+        "Age": 25.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Hakim Ziyech",
+        "Position": "M",
+        "Minutes_played": 90.0,
+        "Day_since_start": 8.0,
+        "Age": 25.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Lasse Sch\u00f6ne",
+        "Position": "M",
+        "Minutes_played": 72.0,
+        "Day_since_start": 8.0,
+        "Age": 32.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Frenkie de Jong",
+        "Position": "M",
+        "Minutes_played": 90.0,
+        "Day_since_start": 8.0,
+        "Age": 21.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "David Neres",
+        "Position": "A",
+        "Minutes_played": 26.0,
+        "Day_since_start": 8.0,
+        "Age": 21.0,
+        "Injured": "Yes"
+    },
+    {
+        "Name": "Klaas-Jan Huntelaar",
+        "Position": "A",
+        "Minutes_played": 90.0,
+        "Day_since_start": 8.0,
+        "Age": 35.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Du\u0161an Tadi\u0107",
+        "Position": "M",
+        "Minutes_played": 90.0,
+        "Day_since_start": 8.0,
+        "Age": 29.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Alexei Ko\u015felev",
+        "Position": "G",
+        "Minutes_played": 90.0,
+        "Day_since_start": 8.0,
+        "Age": 24.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Clint Essers",
+        "Position": "D",
+        "Minutes_played": 90.0,
+        "Day_since_start": 8.0,
+        "Age": 21.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Wessel Dammers",
+        "Position": "D",
+        "Minutes_played": 90.0,
+        "Day_since_start": 8.0,
+        "Age": 23.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Kai Heerings",
+        "Position": "D",
+        "Minutes_played": 90.0,
+        "Day_since_start": 8.0,
+        "Age": 28.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Mica",
+        "Position": "D",
+        "Minutes_played": 90.0,
+        "Day_since_start": 8.0,
+        "Age": 25.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Jorrit Smeets",
+        "Position": "M",
+        "Minutes_played": 90.0,
+        "Day_since_start": 8.0,
+        "Age": 23.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Mark Diemers",
+        "Position": "M",
+        "Minutes_played": 90.0,
+        "Day_since_start": 8.0,
+        "Age": 24.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Ahmed El Messaoudi",
+        "Position": "M",
+        "Minutes_played": 81.0,
+        "Day_since_start": 8.0,
+        "Age": 23.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Lisandro Semedo",
+        "Position": "A",
+        "Minutes_played": 79.0,
+        "Day_since_start": 8.0,
+        "Age": 22.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Andrija Novakovich",
+        "Position": "A",
+        "Minutes_played": 90.0,
+        "Day_since_start": 8.0,
+        "Age": 21.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Gavin Vlijter",
+        "Position": "A",
+        "Minutes_played": 46.0,
+        "Day_since_start": 8.0,
+        "Age": 21.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Jeroen Zoet",
+        "Position": "G",
+        "Minutes_played": 90.0,
+        "Day_since_start": 8.0,
+        "Age": 27.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Denzel Dumfries",
+        "Position": "D",
+        "Minutes_played": 90.0,
+        "Day_since_start": 8.0,
+        "Age": 22.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Daniel Schwaab",
+        "Position": "D",
+        "Minutes_played": 90.0,
+        "Day_since_start": 8.0,
+        "Age": 29.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Nick Viergever",
+        "Position": "D",
+        "Minutes_played": 90.0,
+        "Day_since_start": 8.0,
+        "Age": 29.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Angeli\u00f1o",
+        "Position": "D",
+        "Minutes_played": 90.0,
+        "Day_since_start": 8.0,
+        "Age": 21.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Pablo Rosario",
+        "Position": "M",
+        "Minutes_played": 66.0,
+        "Day_since_start": 8.0,
+        "Age": 21.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Gast\u00f3n Pereiro",
+        "Position": "M",
+        "Minutes_played": 83.0,
+        "Day_since_start": 8.0,
+        "Age": 23.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Jorrit Hendrix",
+        "Position": "M",
+        "Minutes_played": 90.0,
+        "Day_since_start": 8.0,
+        "Age": 23.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Steven Bergwijn",
+        "Position": "A",
+        "Minutes_played": 90.0,
+        "Day_since_start": 8.0,
+        "Age": 20.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Luuk de Jong",
+        "Position": "A",
+        "Minutes_played": 90.0,
+        "Day_since_start": 8.0,
+        "Age": 27.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Hirving Lozano",
+        "Position": "A",
+        "Minutes_played": 66.0,
+        "Day_since_start": 8.0,
+        "Age": 23.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Janis Jonathan Blaswich",
+        "Position": "G",
+        "Minutes_played": 90.0,
+        "Day_since_start": 8.0,
+        "Age": 27.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Tim Breukers",
+        "Position": "D",
+        "Minutes_played": 85.0,
+        "Day_since_start": 8.0,
+        "Age": 30.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Dario Van Den Buijs",
+        "Position": "D",
+        "Minutes_played": 90.0,
+        "Day_since_start": 8.0,
+        "Age": 22.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Robin Propper",
+        "Position": "D",
+        "Minutes_played": 90.0,
+        "Day_since_start": 8.0,
+        "Age": 24.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Bart Van Hintum",
+        "Position": "D",
+        "Minutes_played": 90.0,
+        "Day_since_start": 8.0,
+        "Age": 31.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Mohammed Osman",
+        "Position": "M",
+        "Minutes_played": 90.0,
+        "Day_since_start": 8.0,
+        "Age": 24.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Lerin Duarte",
+        "Position": "M",
+        "Minutes_played": 90.0,
+        "Day_since_start": 8.0,
+        "Age": 28.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Yoell Van Nieff",
+        "Position": "M",
+        "Minutes_played": 56.0,
+        "Day_since_start": 8.0,
+        "Age": 25.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Brandley Kuwas",
+        "Position": "A",
+        "Minutes_played": 81.0,
+        "Day_since_start": 8.0,
+        "Age": 25.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Adrian Dalmau",
+        "Position": "A",
+        "Minutes_played": 90.0,
+        "Day_since_start": 8.0,
+        "Age": 24.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Kristoffer Peterson",
+        "Position": "A",
+        "Minutes_played": 90.0,
+        "Day_since_start": 8.0,
+        "Age": 23.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Indy Groothuizen",
+        "Position": "G",
+        "Minutes_played": 90.0,
+        "Day_since_start": 8.0,
+        "Age": 22.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Dion Malone",
+        "Position": "M",
+        "Minutes_played": 90.0,
+        "Day_since_start": 8.0,
+        "Age": 29.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Tom Beugelsdijk",
+        "Position": "D",
+        "Minutes_played": 46.0,
+        "Day_since_start": 8.0,
+        "Age": 28.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Wilfried Kanon",
+        "Position": "D",
+        "Minutes_played": 90.0,
+        "Day_since_start": 8.0,
+        "Age": 25.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Aaron Meijers",
+        "Position": "D",
+        "Minutes_played": 90.0,
+        "Day_since_start": 8.0,
+        "Age": 30.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Lex Immers",
+        "Position": "M",
+        "Minutes_played": 70.0,
+        "Day_since_start": 8.0,
+        "Age": 32.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Abdenasser El Khayati",
+        "Position": "M",
+        "Minutes_played": 90.0,
+        "Day_since_start": 8.0,
+        "Age": 29.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Danny Bakker",
+        "Position": "M",
+        "Minutes_played": 90.0,
+        "Day_since_start": 8.0,
+        "Age": 23.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Sheraldo Becker",
+        "Position": "A",
+        "Minutes_played": 90.0,
+        "Day_since_start": 8.0,
+        "Age": 23.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Melvyn Lorenzen",
+        "Position": "A",
+        "Minutes_played": 90.0,
+        "Day_since_start": 8.0,
+        "Age": 23.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Elson Hooi",
+        "Position": "A",
+        "Minutes_played": 67.0,
+        "Day_since_start": 8.0,
+        "Age": 26.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Maarten Paes",
+        "Position": "G",
+        "Minutes_played": 90.0,
+        "Day_since_start": 9.0,
+        "Age": 20.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Sean Klaiber",
+        "Position": "D",
+        "Minutes_played": 90.0,
+        "Day_since_start": 9.0,
+        "Age": 24.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Emil Bergstrom",
+        "Position": "D",
+        "Minutes_played": 90.0,
+        "Day_since_start": 9.0,
+        "Age": 25.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Willem Janssen",
+        "Position": "D",
+        "Minutes_played": 90.0,
+        "Day_since_start": 9.0,
+        "Age": 32.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Leon Guwara",
+        "Position": "D",
+        "Minutes_played": 90.0,
+        "Day_since_start": 9.0,
+        "Age": 22.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Joris Van Overeem",
+        "Position": "M",
+        "Minutes_played": 68.0,
+        "Day_since_start": 9.0,
+        "Age": 24.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Urby Emanuelson",
+        "Position": "M",
+        "Minutes_played": 90.0,
+        "Day_since_start": 9.0,
+        "Age": 32.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Nicolas Gavory",
+        "Position": "D",
+        "Minutes_played": 90.0,
+        "Day_since_start": 9.0,
+        "Age": 23.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Simon Gustafsson",
+        "Position": "M",
+        "Minutes_played": 71.0,
+        "Day_since_start": 9.0,
+        "Age": 23.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Gyrano Kerk",
+        "Position": "A",
+        "Minutes_played": 84.0,
+        "Day_since_start": 9.0,
+        "Age": 22.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Sander van de Streek",
+        "Position": "M",
+        "Minutes_played": 90.0,
+        "Day_since_start": 9.0,
+        "Age": 25.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Diederik Boer",
+        "Position": "G",
+        "Minutes_played": 90.0,
+        "Day_since_start": 9.0,
+        "Age": 37.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Kingsley Ehizibue",
+        "Position": "D",
+        "Minutes_played": 90.0,
+        "Day_since_start": 9.0,
+        "Age": 23.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Darryl Lachman",
+        "Position": "D",
+        "Minutes_played": 90.0,
+        "Day_since_start": 9.0,
+        "Age": 28.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Dirk Marcellis",
+        "Position": "D",
+        "Minutes_played": 46.0,
+        "Day_since_start": 9.0,
+        "Age": 30.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Bram Van Polen",
+        "Position": "D",
+        "Minutes_played": 90.0,
+        "Day_since_start": 9.0,
+        "Age": 32.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Gustavo Hamer",
+        "Position": "M",
+        "Minutes_played": 90.0,
+        "Day_since_start": 9.0,
+        "Age": 21.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Zian Flemming",
+        "Position": "M",
+        "Minutes_played": 61.0,
+        "Day_since_start": 9.0,
+        "Age": 20.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Clint Leemans",
+        "Position": "M",
+        "Minutes_played": 90.0,
+        "Day_since_start": 9.0,
+        "Age": 22.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Vito van Crooy",
+        "Position": "A",
+        "Minutes_played": 90.0,
+        "Day_since_start": 9.0,
+        "Age": 22.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Mike van Duinen",
+        "Position": "A",
+        "Minutes_played": 90.0,
+        "Day_since_start": 9.0,
+        "Age": 26.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Younes Namli",
+        "Position": "A",
+        "Minutes_played": 81.0,
+        "Day_since_start": 9.0,
+        "Age": 24.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Justin Bijlow",
+        "Position": "G",
+        "Minutes_played": 90.0,
+        "Day_since_start": 9.0,
+        "Age": 20.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Bart Nieuwkoop",
+        "Position": "D",
+        "Minutes_played": 65.0,
+        "Day_since_start": 9.0,
+        "Age": 22.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Sven van Beek",
+        "Position": "D",
+        "Minutes_played": 90.0,
+        "Day_since_start": 9.0,
+        "Age": 24.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Jan-Arie Van der Heijden",
+        "Position": "D",
+        "Minutes_played": 90.0,
+        "Day_since_start": 9.0,
+        "Age": 30.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Tyrell Malacia",
+        "Position": "D",
+        "Minutes_played": 90.0,
+        "Day_since_start": 9.0,
+        "Age": 19.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Jens Toornstra",
+        "Position": "M",
+        "Minutes_played": 90.0,
+        "Day_since_start": 9.0,
+        "Age": 29.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Jordy Clasie",
+        "Position": "M",
+        "Minutes_played": 70.0,
+        "Day_since_start": 9.0,
+        "Age": 27.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Tonny Vilhena",
+        "Position": "M",
+        "Minutes_played": 90.0,
+        "Day_since_start": 9.0,
+        "Age": 23.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Steven Berghuis",
+        "Position": "A",
+        "Minutes_played": 90.0,
+        "Day_since_start": 9.0,
+        "Age": 26.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Robin van Persie",
+        "Position": "A",
+        "Minutes_played": 90.0,
+        "Day_since_start": 9.0,
+        "Age": 35.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Sam Larsson",
+        "Position": "A",
+        "Minutes_played": 59.0,
+        "Day_since_start": 9.0,
+        "Age": 25.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Sonny Stevens",
+        "Position": "G",
+        "Minutes_played": 90.0,
+        "Day_since_start": 9.0,
+        "Age": 26.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Jeffrey Fortes",
+        "Position": "D",
+        "Minutes_played": 90.0,
+        "Day_since_start": 9.0,
+        "Age": 29.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Jurgen Matheij",
+        "Position": "D",
+        "Minutes_played": 90.0,
+        "Day_since_start": 9.0,
+        "Age": 25.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Herve Matthys",
+        "Position": "D",
+        "Minutes_played": 90.0,
+        "Day_since_start": 9.0,
+        "Age": 22.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Lorenzo Burnet",
+        "Position": "D",
+        "Minutes_played": 90.0,
+        "Day_since_start": 9.0,
+        "Age": 27.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Jerdy Schouten",
+        "Position": "M",
+        "Minutes_played": 90.0,
+        "Day_since_start": 9.0,
+        "Age": 21.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Ali Messaoud",
+        "Position": "M",
+        "Minutes_played": 90.0,
+        "Day_since_start": 9.0,
+        "Age": 27.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Ryan Koolwijk",
+        "Position": "M",
+        "Minutes_played": 90.0,
+        "Day_since_start": 9.0,
+        "Age": 33.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Mikael Anderson",
+        "Position": "M",
+        "Minutes_played": 86.0,
+        "Day_since_start": 9.0,
+        "Age": 20.0,
+        "Injured": "Yes"
+    },
+    {
+        "Name": "El\u00edas M\u00e1r\u00a0\u00d3marsson",
+        "Position": "A",
+        "Minutes_played": 76.0,
+        "Day_since_start": 9.0,
+        "Age": 23.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Anouar Hadouir",
+        "Position": "A",
+        "Minutes_played": 27.0,
+        "Day_since_start": 9.0,
+        "Age": 35.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Kjell Scherpen",
+        "Position": "G",
+        "Minutes_played": 90.0,
+        "Day_since_start": 9.0,
+        "Age": 18.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Gersom Klok",
+        "Position": "D",
+        "Minutes_played": 90.0,
+        "Day_since_start": 9.0,
+        "Age": 27.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Keziah Veendorp",
+        "Position": "D",
+        "Minutes_played": 90.0,
+        "Day_since_start": 9.0,
+        "Age": 21.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Nick Bakker",
+        "Position": "D",
+        "Minutes_played": 90.0,
+        "Day_since_start": 9.0,
+        "Age": 26.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Caner Cavlan",
+        "Position": "D",
+        "Minutes_played": 90.0,
+        "Day_since_start": 9.0,
+        "Age": 26.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Luciano Slagveer",
+        "Position": "A",
+        "Minutes_played": 90.0,
+        "Day_since_start": 9.0,
+        "Age": 24.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Glenn Bijl",
+        "Position": "M",
+        "Minutes_played": 90.0,
+        "Day_since_start": 9.0,
+        "Age": 23.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Hilal Ben Moussa",
+        "Position": "M",
+        "Minutes_played": 90.0,
+        "Day_since_start": 9.0,
+        "Age": 26.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Wouter Marinus",
+        "Position": "M",
+        "Minutes_played": 70.0,
+        "Day_since_start": 9.0,
+        "Age": 23.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Nicklas Pedersen",
+        "Position": "A",
+        "Minutes_played": 90.0,
+        "Day_since_start": 9.0,
+        "Age": 30.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Anco Jansen",
+        "Position": "A",
+        "Minutes_played": 90.0,
+        "Day_since_start": 9.0,
+        "Age": 29.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Marco Bizot",
+        "Position": "G",
+        "Minutes_played": 90.0,
+        "Day_since_start": 9.0,
+        "Age": 27.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Jonas Svensson",
+        "Position": "D",
+        "Minutes_played": 90.0,
+        "Day_since_start": 9.0,
+        "Age": 25.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Pantelis Hatzidiakos",
+        "Position": "D",
+        "Minutes_played": 90.0,
+        "Day_since_start": 9.0,
+        "Age": 21.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Ron Vlaar",
+        "Position": "D",
+        "Minutes_played": 90.0,
+        "Day_since_start": 9.0,
+        "Age": 33.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Thomas Ouwejan",
+        "Position": "D",
+        "Minutes_played": 90.0,
+        "Day_since_start": 9.0,
+        "Age": 21.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Guus Til",
+        "Position": "M",
+        "Minutes_played": 90.0,
+        "Day_since_start": 9.0,
+        "Age": 20.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Fredrik Midtsj\u00f8",
+        "Position": "M",
+        "Minutes_played": 65.0,
+        "Day_since_start": 9.0,
+        "Age": 25.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Teun Koopmeiners",
+        "Position": "M",
+        "Minutes_played": 90.0,
+        "Day_since_start": 9.0,
+        "Age": 20.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Mats Seuntjens",
+        "Position": "A",
+        "Minutes_played": 90.0,
+        "Day_since_start": 9.0,
+        "Age": 26.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Myron Boadu",
+        "Position": "A",
+        "Minutes_played": 90.0,
+        "Day_since_start": 9.0,
+        "Age": 17.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Oussama Idrissi",
+        "Position": "A",
+        "Minutes_played": 72.0,
+        "Day_since_start": 9.0,
+        "Age": 22.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Warner Hahn",
+        "Position": "G",
+        "Minutes_played": 90.0,
+        "Day_since_start": 9.0,
+        "Age": 26.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Lucas Woudenberg",
+        "Position": "D",
+        "Minutes_played": 90.0,
+        "Day_since_start": 9.0,
+        "Age": 24.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Daniel H\u00f8egh",
+        "Position": "D",
+        "Minutes_played": 90.0,
+        "Day_since_start": 9.0,
+        "Age": 27.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Dave Bulthuis",
+        "Position": "D",
+        "Minutes_played": 90.0,
+        "Day_since_start": 9.0,
+        "Age": 28.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Kik Pierie",
+        "Position": "D",
+        "Minutes_played": 90.0,
+        "Day_since_start": 9.0,
+        "Age": 18.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Rodney Kongolo",
+        "Position": "M",
+        "Minutes_played": 90.0,
+        "Day_since_start": 9.0,
+        "Age": 20.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Yuki Kobayashi",
+        "Position": "M",
+        "Minutes_played": 90.0,
+        "Day_since_start": 9.0,
+        "Age": 26.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Michel Vlap",
+        "Position": "M",
+        "Minutes_played": 90.0,
+        "Day_since_start": 9.0,
+        "Age": 21.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Nemanja Mihajlovi\u0107",
+        "Position": "A",
+        "Minutes_played": 90.0,
+        "Day_since_start": 9.0,
+        "Age": 22.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Sam Lammers",
+        "Position": "A",
+        "Minutes_played": 90.0,
+        "Day_since_start": 9.0,
+        "Age": 21.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Arb\u00ebr Zeneli",
+        "Position": "A",
+        "Minutes_played": 59.0,
+        "Day_since_start": 9.0,
+        "Age": 23.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Eduardo",
+        "Position": "G",
+        "Minutes_played": 90.0,
+        "Day_since_start": 9.0,
+        "Age": 35.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Vyacheslav Karavaev",
+        "Position": "D",
+        "Minutes_played": 90.0,
+        "Day_since_start": 9.0,
+        "Age": 23.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Maikel Van der Werff",
+        "Position": "D",
+        "Minutes_played": 67.0,
+        "Day_since_start": 9.0,
+        "Age": 29.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Jake Clarke-Salter",
+        "Position": "D",
+        "Minutes_played": 90.0,
+        "Day_since_start": 9.0,
+        "Age": 20.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Alexander B\u00fcttner",
+        "Position": "D",
+        "Minutes_played": 90.0,
+        "Day_since_start": 9.0,
+        "Age": 29.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Mat\u00fa\u0161 Bero",
+        "Position": "M",
+        "Minutes_played": 67.0,
+        "Day_since_start": 9.0,
+        "Age": 22.0,
+        "Injured": "Yes"
+    },
+    {
+        "Name": "Thulani Serero",
+        "Position": "M",
+        "Minutes_played": 90.0,
+        "Day_since_start": 9.0,
+        "Age": 28.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Navarone Foor",
+        "Position": "M",
+        "Minutes_played": 90.0,
+        "Day_since_start": 9.0,
+        "Age": 26.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Roy Beerens",
+        "Position": "A",
+        "Minutes_played": 90.0,
+        "Day_since_start": 9.0,
+        "Age": 30.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Tim Matavz",
+        "Position": "A",
+        "Minutes_played": 90.0,
+        "Day_since_start": 9.0,
+        "Age": 29.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Bryan Linssen",
+        "Position": "A",
+        "Minutes_played": 90.0,
+        "Day_since_start": 9.0,
+        "Age": 27.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Indy Groothuizen",
+        "Position": "G",
+        "Minutes_played": 90.0,
+        "Day_since_start": 14.0,
+        "Age": 22.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Dion Malone",
+        "Position": "M",
+        "Minutes_played": 90.0,
+        "Day_since_start": 14.0,
+        "Age": 29.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Tom Beugelsdijk",
+        "Position": "D",
+        "Minutes_played": 90.0,
+        "Day_since_start": 14.0,
+        "Age": 28.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Wilfried Kanon",
+        "Position": "D",
+        "Minutes_played": 90.0,
+        "Day_since_start": 14.0,
+        "Age": 25.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Aaron Meijers",
+        "Position": "D",
+        "Minutes_played": 90.0,
+        "Day_since_start": 14.0,
+        "Age": 30.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Lex Immers",
+        "Position": "M",
+        "Minutes_played": 90.0,
+        "Day_since_start": 14.0,
+        "Age": 32.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Abdenasser El Khayati",
+        "Position": "M",
+        "Minutes_played": 85.0,
+        "Day_since_start": 14.0,
+        "Age": 29.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "John Goossens",
+        "Position": "M",
+        "Minutes_played": 74.0,
+        "Day_since_start": 14.0,
+        "Age": 30.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Sheraldo Becker",
+        "Position": "A",
+        "Minutes_played": 90.0,
+        "Day_since_start": 14.0,
+        "Age": 23.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Melvyn Lorenzen",
+        "Position": "A",
+        "Minutes_played": 83.0,
+        "Day_since_start": 14.0,
+        "Age": 23.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Elson Hooi",
+        "Position": "A",
+        "Minutes_played": 90.0,
+        "Day_since_start": 14.0,
+        "Age": 26.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Alexei Ko\u015felev",
+        "Position": "G",
+        "Minutes_played": 90.0,
+        "Day_since_start": 14.0,
+        "Age": 24.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Clint Essers",
+        "Position": "D",
+        "Minutes_played": 90.0,
+        "Day_since_start": 14.0,
+        "Age": 21.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Wessel Dammers",
+        "Position": "D",
+        "Minutes_played": 90.0,
+        "Day_since_start": 14.0,
+        "Age": 23.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Kai Heerings",
+        "Position": "D",
+        "Minutes_played": 90.0,
+        "Day_since_start": 14.0,
+        "Age": 28.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Mica",
+        "Position": "D",
+        "Minutes_played": 90.0,
+        "Day_since_start": 14.0,
+        "Age": 25.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Jorrit Smeets",
+        "Position": "M",
+        "Minutes_played": 90.0,
+        "Day_since_start": 14.0,
+        "Age": 23.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Mark Diemers",
+        "Position": "M",
+        "Minutes_played": 90.0,
+        "Day_since_start": 14.0,
+        "Age": 24.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Ahmed El Messaoudi",
+        "Position": "M",
+        "Minutes_played": 82.0,
+        "Day_since_start": 14.0,
+        "Age": 23.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Lisandro Semedo",
+        "Position": "A",
+        "Minutes_played": 90.0,
+        "Day_since_start": 14.0,
+        "Age": 22.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Andrija Novakovich",
+        "Position": "A",
+        "Minutes_played": 90.0,
+        "Day_since_start": 14.0,
+        "Age": 21.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Andr\u00e9 Vidigal",
+        "Position": "A",
+        "Minutes_played": 64.0,
+        "Day_since_start": 14.0,
+        "Age": 20.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Andr\u00e9 Onana",
+        "Position": "G",
+        "Minutes_played": 90.0,
+        "Day_since_start": 15.0,
+        "Age": 22.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Rasmus Kristensen",
+        "Position": "D",
+        "Minutes_played": 90.0,
+        "Day_since_start": 15.0,
+        "Age": 21.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Matthijs De Ligt",
+        "Position": "D",
+        "Minutes_played": 90.0,
+        "Day_since_start": 15.0,
+        "Age": 19.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Daley Blind",
+        "Position": "D",
+        "Minutes_played": 90.0,
+        "Day_since_start": 15.0,
+        "Age": 28.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Nicol\u00e1s Tagliafico",
+        "Position": "D",
+        "Minutes_played": 90.0,
+        "Day_since_start": 15.0,
+        "Age": 25.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Donny van de Beek",
+        "Position": "M",
+        "Minutes_played": 90.0,
+        "Day_since_start": 15.0,
+        "Age": 21.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Carel Eiting",
+        "Position": "M",
+        "Minutes_played": 90.0,
+        "Day_since_start": 15.0,
+        "Age": 20.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Frenkie de Jong",
+        "Position": "M",
+        "Minutes_played": 64.0,
+        "Day_since_start": 15.0,
+        "Age": 21.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Hakim Ziyech",
+        "Position": "M",
+        "Minutes_played": 78.0,
+        "Day_since_start": 15.0,
+        "Age": 25.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Klaas-Jan Huntelaar",
+        "Position": "A",
+        "Minutes_played": 64.0,
+        "Day_since_start": 15.0,
+        "Age": 35.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Du\u0161an Tadi\u0107",
+        "Position": "M",
+        "Minutes_played": 90.0,
+        "Day_since_start": 15.0,
+        "Age": 29.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Kjell Scherpen",
+        "Position": "G",
+        "Minutes_played": 90.0,
+        "Day_since_start": 15.0,
+        "Age": 18.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Gersom Klok",
+        "Position": "D",
+        "Minutes_played": 90.0,
+        "Day_since_start": 15.0,
+        "Age": 27.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Keziah Veendorp",
+        "Position": "D",
+        "Minutes_played": 90.0,
+        "Day_since_start": 15.0,
+        "Age": 21.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Tim Siekman",
+        "Position": "D",
+        "Minutes_played": 90.0,
+        "Day_since_start": 15.0,
+        "Age": 28.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Caner Cavlan",
+        "Position": "D",
+        "Minutes_played": 90.0,
+        "Day_since_start": 15.0,
+        "Age": 26.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Luciano Slagveer",
+        "Position": "A",
+        "Minutes_played": 78.0,
+        "Day_since_start": 15.0,
+        "Age": 24.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Glenn Bijl",
+        "Position": "M",
+        "Minutes_played": 90.0,
+        "Day_since_start": 15.0,
+        "Age": 23.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Michael Chacon",
+        "Position": "M",
+        "Minutes_played": 90.0,
+        "Day_since_start": 15.0,
+        "Age": 24.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Wouter Marinus",
+        "Position": "M",
+        "Minutes_played": 46.0,
+        "Day_since_start": 15.0,
+        "Age": 23.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Nicklas Pedersen",
+        "Position": "A",
+        "Minutes_played": 46.0,
+        "Day_since_start": 15.0,
+        "Age": 30.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Anco Jansen",
+        "Position": "A",
+        "Minutes_played": 90.0,
+        "Day_since_start": 15.0,
+        "Age": 29.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Hidde Jurjus",
+        "Position": "G",
+        "Minutes_played": 90.0,
+        "Day_since_start": 15.0,
+        "Age": 24.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Myenty Abena",
+        "Position": "D",
+        "Minutes_played": 84.0,
+        "Day_since_start": 15.0,
+        "Age": 23.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Sven Nieuwpoort",
+        "Position": "D",
+        "Minutes_played": 90.0,
+        "Day_since_start": 15.0,
+        "Age": 25.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Ted Van de Pavert",
+        "Position": "D",
+        "Minutes_played": 90.0,
+        "Day_since_start": 15.0,
+        "Age": 26.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Leeroy Owusu",
+        "Position": "D",
+        "Minutes_played": 90.0,
+        "Day_since_start": 15.0,
+        "Age": 22.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Erik Bakker",
+        "Position": "M",
+        "Minutes_played": 90.0,
+        "Day_since_start": 15.0,
+        "Age": 28.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Stefan Nijland",
+        "Position": "M",
+        "Minutes_played": 90.0,
+        "Day_since_start": 15.0,
+        "Age": 30.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Jordy Tutuarima",
+        "Position": "D",
+        "Minutes_played": 46.0,
+        "Day_since_start": 15.0,
+        "Age": 25.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Daryl van Mieghem",
+        "Position": "A",
+        "Minutes_played": 90.0,
+        "Day_since_start": 15.0,
+        "Age": 28.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Fabian Serrarens",
+        "Position": "A",
+        "Minutes_played": 90.0,
+        "Day_since_start": 15.0,
+        "Age": 27.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Mohamed Hamdaoui",
+        "Position": "A",
+        "Minutes_played": 57.0,
+        "Day_since_start": 15.0,
+        "Age": 25.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Sergio Padt",
+        "Position": "G",
+        "Minutes_played": 90.0,
+        "Day_since_start": 15.0,
+        "Age": 28.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Deyovaisio Zeefuik",
+        "Position": "D",
+        "Minutes_played": 90.0,
+        "Day_since_start": 15.0,
+        "Age": 20.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Mike te Wierik",
+        "Position": "D",
+        "Minutes_played": 90.0,
+        "Day_since_start": 15.0,
+        "Age": 26.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Samir Memisevic",
+        "Position": "D",
+        "Minutes_played": 90.0,
+        "Day_since_start": 15.0,
+        "Age": 25.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Tim Handwerker",
+        "Position": "D",
+        "Minutes_played": 90.0,
+        "Day_since_start": 15.0,
+        "Age": 20.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Ludovit Reis",
+        "Position": "M",
+        "Minutes_played": 90.0,
+        "Day_since_start": 15.0,
+        "Age": 18.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Ajdin Hrustic",
+        "Position": "M",
+        "Minutes_played": 84.0,
+        "Day_since_start": 15.0,
+        "Age": 22.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Ritsu Doan",
+        "Position": "M",
+        "Minutes_played": 90.0,
+        "Day_since_start": 15.0,
+        "Age": 20.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Michael Breij",
+        "Position": "A",
+        "Minutes_played": 73.0,
+        "Day_since_start": 15.0,
+        "Age": 21.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Django Warmerdam",
+        "Position": "D",
+        "Minutes_played": 90.0,
+        "Day_since_start": 15.0,
+        "Age": 22.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Mateo Cassierra",
+        "Position": "A",
+        "Minutes_played": 63.0,
+        "Day_since_start": 15.0,
+        "Age": 21.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Karol Niemczycki",
+        "Position": "G",
+        "Minutes_played": 90.0,
+        "Day_since_start": 15.0,
+        "Age": 19.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Arno Verschueren",
+        "Position": "M",
+        "Minutes_played": 90.0,
+        "Day_since_start": 15.0,
+        "Age": 21.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Menno Koch",
+        "Position": "D",
+        "Minutes_played": 90.0,
+        "Day_since_start": 15.0,
+        "Age": 24.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Karol Mets",
+        "Position": "D",
+        "Minutes_played": 90.0,
+        "Day_since_start": 15.0,
+        "Age": 25.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Greg Leigh",
+        "Position": "D",
+        "Minutes_played": 90.0,
+        "Day_since_start": 15.0,
+        "Age": 23.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Gianluca Nijholt",
+        "Position": "M",
+        "Minutes_played": 46.0,
+        "Day_since_start": 15.0,
+        "Age": 28.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Anouar Kali",
+        "Position": "M",
+        "Minutes_played": 90.0,
+        "Day_since_start": 15.0,
+        "Age": 27.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Mikhael Rosheuvel",
+        "Position": "M",
+        "Minutes_played": 59.0,
+        "Day_since_start": 15.0,
+        "Age": 28.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Luka Ili\u0107",
+        "Position": "M",
+        "Minutes_played": 90.0,
+        "Day_since_start": 15.0,
+        "Age": 17.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Mounir El Allouchi",
+        "Position": "M",
+        "Minutes_played": 90.0,
+        "Day_since_start": 15.0,
+        "Age": 23.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Mitchell Te Vrede",
+        "Position": "A",
+        "Minutes_played": 90.0,
+        "Day_since_start": 15.0,
+        "Age": 27.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Sonny Stevens",
+        "Position": "G",
+        "Minutes_played": 90.0,
+        "Day_since_start": 15.0,
+        "Age": 26.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Jeffrey Fortes",
+        "Position": "D",
+        "Minutes_played": 90.0,
+        "Day_since_start": 15.0,
+        "Age": 29.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Jurgen Matheij",
+        "Position": "D",
+        "Minutes_played": 90.0,
+        "Day_since_start": 15.0,
+        "Age": 25.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Herve Matthys",
+        "Position": "D",
+        "Minutes_played": 90.0,
+        "Day_since_start": 15.0,
+        "Age": 22.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Lorenzo Burnet",
+        "Position": "D",
+        "Minutes_played": 90.0,
+        "Day_since_start": 15.0,
+        "Age": 27.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Jerdy Schouten",
+        "Position": "M",
+        "Minutes_played": 90.0,
+        "Day_since_start": 15.0,
+        "Age": 21.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Ali Messaoud",
+        "Position": "M",
+        "Minutes_played": 88.0,
+        "Day_since_start": 15.0,
+        "Age": 27.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Ryan Koolwijk",
+        "Position": "M",
+        "Minutes_played": 90.0,
+        "Day_since_start": 15.0,
+        "Age": 33.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Mikael Anderson",
+        "Position": "M",
+        "Minutes_played": 75.0,
+        "Day_since_start": 15.0,
+        "Age": 20.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "El\u00edas M\u00e1r\u00a0\u00d3marsson",
+        "Position": "A",
+        "Minutes_played": 90.0,
+        "Day_since_start": 15.0,
+        "Age": 23.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Denis Mahmudov",
+        "Position": "A",
+        "Minutes_played": 81.0,
+        "Day_since_start": 15.0,
+        "Age": 28.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Mickey van der Hart",
+        "Position": "G",
+        "Minutes_played": 90.0,
+        "Day_since_start": 15.0,
+        "Age": 24.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Kingsley Ehizibue",
+        "Position": "D",
+        "Minutes_played": 90.0,
+        "Day_since_start": 15.0,
+        "Age": 23.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Sepp van den Berg",
+        "Position": "D",
+        "Minutes_played": 90.0,
+        "Day_since_start": 15.0,
+        "Age": 16.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Darryl Lachman",
+        "Position": "D",
+        "Minutes_played": 90.0,
+        "Day_since_start": 15.0,
+        "Age": 28.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Bram Van Polen",
+        "Position": "D",
+        "Minutes_played": 52.0,
+        "Day_since_start": 15.0,
+        "Age": 32.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Denis Genreau",
+        "Position": "M",
+        "Minutes_played": 65.0,
+        "Day_since_start": 15.0,
+        "Age": 19.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Rick Dekker",
+        "Position": "M",
+        "Minutes_played": 82.0,
+        "Day_since_start": 15.0,
+        "Age": 23.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Clint Leemans",
+        "Position": "M",
+        "Minutes_played": 90.0,
+        "Day_since_start": 15.0,
+        "Age": 22.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Younes Namli",
+        "Position": "A",
+        "Minutes_played": 90.0,
+        "Day_since_start": 15.0,
+        "Age": 24.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Mike van Duinen",
+        "Position": "A",
+        "Minutes_played": 90.0,
+        "Day_since_start": 15.0,
+        "Age": 26.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Vito van Crooy",
+        "Position": "A",
+        "Minutes_played": 90.0,
+        "Day_since_start": 15.0,
+        "Age": 22.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Jeroen Zoet",
+        "Position": "G",
+        "Minutes_played": 90.0,
+        "Day_since_start": 15.0,
+        "Age": 27.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Denzel Dumfries",
+        "Position": "D",
+        "Minutes_played": 75.0,
+        "Day_since_start": 15.0,
+        "Age": 22.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Daniel Schwaab",
+        "Position": "D",
+        "Minutes_played": 90.0,
+        "Day_since_start": 15.0,
+        "Age": 30.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Nick Viergever",
+        "Position": "D",
+        "Minutes_played": 90.0,
+        "Day_since_start": 15.0,
+        "Age": 29.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Angeli\u00f1o",
+        "Position": "D",
+        "Minutes_played": 90.0,
+        "Day_since_start": 15.0,
+        "Age": 21.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Dante Rigo",
+        "Position": "M",
+        "Minutes_played": 81.0,
+        "Day_since_start": 15.0,
+        "Age": 19.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Gast\u00f3n Pereiro",
+        "Position": "M",
+        "Minutes_played": 66.0,
+        "Day_since_start": 15.0,
+        "Age": 23.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Jorrit Hendrix",
+        "Position": "M",
+        "Minutes_played": 90.0,
+        "Day_since_start": 15.0,
+        "Age": 23.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Steven Bergwijn",
+        "Position": "A",
+        "Minutes_played": 90.0,
+        "Day_since_start": 15.0,
+        "Age": 20.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Luuk de Jong",
+        "Position": "A",
+        "Minutes_played": 90.0,
+        "Day_since_start": 15.0,
+        "Age": 27.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Hirving Lozano",
+        "Position": "A",
+        "Minutes_played": 90.0,
+        "Day_since_start": 15.0,
+        "Age": 23.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Timon Wellenreuther",
+        "Position": "G",
+        "Minutes_played": 90.0,
+        "Day_since_start": 16.0,
+        "Age": 22.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Freek Heerkens",
+        "Position": "D",
+        "Minutes_played": 90.0,
+        "Day_since_start": 16.0,
+        "Age": 28.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Fernando Lewis",
+        "Position": "D",
+        "Minutes_played": 90.0,
+        "Day_since_start": 16.0,
+        "Age": 25.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Damil Dankerlui",
+        "Position": "D",
+        "Minutes_played": 90.0,
+        "Day_since_start": 16.0,
+        "Age": 22.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Dan Crowley",
+        "Position": "M",
+        "Minutes_played": 90.0,
+        "Day_since_start": 16.0,
+        "Age": 21.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Atakan Akkaynak",
+        "Position": "M",
+        "Minutes_played": 76.0,
+        "Day_since_start": 16.0,
+        "Age": 19.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Fran Sol",
+        "Position": "A",
+        "Minutes_played": 90.0,
+        "Day_since_start": 16.0,
+        "Age": 26.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Aras \u00d6zbiliz",
+        "Position": "A",
+        "Minutes_played": 76.0,
+        "Day_since_start": 16.0,
+        "Age": 28.0,
+        "Injured": "Yes"
+    },
+    {
+        "Name": "Donis Avdijaj",
+        "Position": "A",
+        "Minutes_played": 90.0,
+        "Day_since_start": 16.0,
+        "Age": 22.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Janis Jonathan Blaswich",
+        "Position": "G",
+        "Minutes_played": 90.0,
+        "Day_since_start": 16.0,
+        "Age": 27.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Wout Droste",
+        "Position": "D",
+        "Minutes_played": 90.0,
+        "Day_since_start": 16.0,
+        "Age": 29.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Bart Van Hintum",
+        "Position": "D",
+        "Minutes_played": 65.0,
+        "Day_since_start": 16.0,
+        "Age": 31.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Stephen Sama",
+        "Position": "D",
+        "Minutes_played": 90.0,
+        "Day_since_start": 16.0,
+        "Age": 25.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Robin Propper",
+        "Position": "D",
+        "Minutes_played": 90.0,
+        "Day_since_start": 16.0,
+        "Age": 24.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Alexander Merkel",
+        "Position": "M",
+        "Minutes_played": 90.0,
+        "Day_since_start": 16.0,
+        "Age": 26.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Yoell Van Nieff",
+        "Position": "M",
+        "Minutes_played": 90.0,
+        "Day_since_start": 16.0,
+        "Age": 25.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Mohammed Osman",
+        "Position": "M",
+        "Minutes_played": 90.0,
+        "Day_since_start": 16.0,
+        "Age": 24.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Brandley Kuwas",
+        "Position": "A",
+        "Minutes_played": 90.0,
+        "Day_since_start": 16.0,
+        "Age": 25.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Kristoffer Peterson",
+        "Position": "A",
+        "Minutes_played": 46.0,
+        "Day_since_start": 16.0,
+        "Age": 23.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Adrian Dalmau",
+        "Position": "A",
+        "Minutes_played": 76.0,
+        "Day_since_start": 16.0,
+        "Age": 24.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Diego Palacios",
+        "Position": "D",
+        "Minutes_played": 90.0,
+        "Day_since_start": 16.0,
+        "Age": 19.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Pol Llonch",
+        "Position": "M",
+        "Minutes_played": 68.0,
+        "Day_since_start": 16.0,
+        "Age": 25.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Warner Hahn",
+        "Position": "G",
+        "Minutes_played": 90.0,
+        "Day_since_start": 16.0,
+        "Age": 26.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Doke Schmidt",
+        "Position": "D",
+        "Minutes_played": 84.0,
+        "Day_since_start": 16.0,
+        "Age": 26.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Daniel H\u00f8egh",
+        "Position": "D",
+        "Minutes_played": 90.0,
+        "Day_since_start": 16.0,
+        "Age": 27.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Dave Bulthuis",
+        "Position": "D",
+        "Minutes_played": 90.0,
+        "Day_since_start": 16.0,
+        "Age": 28.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Kik Pierie",
+        "Position": "D",
+        "Minutes_played": 90.0,
+        "Day_since_start": 16.0,
+        "Age": 18.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Morten Thorsby",
+        "Position": "M",
+        "Minutes_played": 90.0,
+        "Day_since_start": 16.0,
+        "Age": 22.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Michel Vlap",
+        "Position": "M",
+        "Minutes_played": 90.0,
+        "Day_since_start": 16.0,
+        "Age": 21.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Yuki Kobayashi",
+        "Position": "M",
+        "Minutes_played": 90.0,
+        "Day_since_start": 16.0,
+        "Age": 26.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Nemanja Mihajlovi\u0107",
+        "Position": "A",
+        "Minutes_played": 46.0,
+        "Day_since_start": 16.0,
+        "Age": 22.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Sam Lammers",
+        "Position": "A",
+        "Minutes_played": 90.0,
+        "Day_since_start": 16.0,
+        "Age": 21.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Arb\u00ebr Zeneli",
+        "Position": "A",
+        "Minutes_played": 72.0,
+        "Day_since_start": 16.0,
+        "Age": 23.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Justin Bijlow",
+        "Position": "G",
+        "Minutes_played": 90.0,
+        "Day_since_start": 16.0,
+        "Age": 20.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Jeremiah St. Juste",
+        "Position": "D",
+        "Minutes_played": 90.0,
+        "Day_since_start": 16.0,
+        "Age": 21.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Eric Botteghin",
+        "Position": "D",
+        "Minutes_played": 90.0,
+        "Day_since_start": 16.0,
+        "Age": 30.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Jan-Arie Van der Heijden",
+        "Position": "D",
+        "Minutes_played": 90.0,
+        "Day_since_start": 16.0,
+        "Age": 30.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Tyrell Malacia",
+        "Position": "D",
+        "Minutes_played": 90.0,
+        "Day_since_start": 16.0,
+        "Age": 19.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Jens Toornstra",
+        "Position": "M",
+        "Minutes_played": 90.0,
+        "Day_since_start": 16.0,
+        "Age": 29.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Jordy Clasie",
+        "Position": "M",
+        "Minutes_played": 83.0,
+        "Day_since_start": 16.0,
+        "Age": 27.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Tonny Vilhena",
+        "Position": "M",
+        "Minutes_played": 90.0,
+        "Day_since_start": 16.0,
+        "Age": 23.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Steven Berghuis",
+        "Position": "A",
+        "Minutes_played": 90.0,
+        "Day_since_start": 16.0,
+        "Age": 26.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Robin van Persie",
+        "Position": "A",
+        "Minutes_played": 90.0,
+        "Day_since_start": 16.0,
+        "Age": 35.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Sam Larsson",
+        "Position": "A",
+        "Minutes_played": 90.0,
+        "Day_since_start": 16.0,
+        "Age": 25.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "David Jensen",
+        "Position": "G",
+        "Minutes_played": 90.0,
+        "Day_since_start": 16.0,
+        "Age": 26.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Sean Klaiber",
+        "Position": "D",
+        "Minutes_played": 90.0,
+        "Day_since_start": 16.0,
+        "Age": 24.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Emil Bergstrom",
+        "Position": "D",
+        "Minutes_played": 90.0,
+        "Day_since_start": 16.0,
+        "Age": 25.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Willem Janssen",
+        "Position": "D",
+        "Minutes_played": 90.0,
+        "Day_since_start": 16.0,
+        "Age": 32.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Leon Guwara",
+        "Position": "D",
+        "Minutes_played": 90.0,
+        "Day_since_start": 16.0,
+        "Age": 22.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Othman Boussaid",
+        "Position": "M",
+        "Minutes_played": 90.0,
+        "Day_since_start": 16.0,
+        "Age": 18.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Urby Emanuelson",
+        "Position": "M",
+        "Minutes_played": 61.0,
+        "Day_since_start": 16.0,
+        "Age": 32.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Nicolas Gavory",
+        "Position": "D",
+        "Minutes_played": 90.0,
+        "Day_since_start": 16.0,
+        "Age": 23.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Simon Gustafsson",
+        "Position": "M",
+        "Minutes_played": 61.0,
+        "Day_since_start": 16.0,
+        "Age": 23.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Gyrano Kerk",
+        "Position": "A",
+        "Minutes_played": 79.0,
+        "Day_since_start": 16.0,
+        "Age": 22.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Sander van de Streek",
+        "Position": "M",
+        "Minutes_played": 90.0,
+        "Day_since_start": 16.0,
+        "Age": 25.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Lars Unnerstall",
+        "Position": "G",
+        "Minutes_played": 90.0,
+        "Day_since_start": 16.0,
+        "Age": 28.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Christian Kum",
+        "Position": "D",
+        "Minutes_played": 90.0,
+        "Day_since_start": 16.0,
+        "Age": 32.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Nils R\u00f6seler",
+        "Position": "D",
+        "Minutes_played": 90.0,
+        "Day_since_start": 16.0,
+        "Age": 26.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Jerold Promes",
+        "Position": "D",
+        "Minutes_played": 90.0,
+        "Day_since_start": 16.0,
+        "Age": 34.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Moreno Rutten",
+        "Position": "D",
+        "Minutes_played": 90.0,
+        "Day_since_start": 16.0,
+        "Age": 25.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Danny Post",
+        "Position": "M",
+        "Minutes_played": 90.0,
+        "Day_since_start": 16.0,
+        "Age": 29.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Tino-Sven Su\u0161i\u0107",
+        "Position": "M",
+        "Minutes_played": 90.0,
+        "Day_since_start": 16.0,
+        "Age": 26.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Jay-Roy Grot",
+        "Position": "A",
+        "Minutes_played": 46.0,
+        "Day_since_start": 16.0,
+        "Age": 20.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Ralf Seuntjens",
+        "Position": "M",
+        "Minutes_played": 90.0,
+        "Day_since_start": 16.0,
+        "Age": 29.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Martin Samuelsen",
+        "Position": "M",
+        "Minutes_played": 65.0,
+        "Day_since_start": 16.0,
+        "Age": 21.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Marco Bizot",
+        "Position": "G",
+        "Minutes_played": 90.0,
+        "Day_since_start": 16.0,
+        "Age": 27.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Jonas Svensson",
+        "Position": "D",
+        "Minutes_played": 90.0,
+        "Day_since_start": 16.0,
+        "Age": 25.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Pantelis Hatzidiakos",
+        "Position": "D",
+        "Minutes_played": 90.0,
+        "Day_since_start": 16.0,
+        "Age": 21.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Ron Vlaar",
+        "Position": "D",
+        "Minutes_played": 90.0,
+        "Day_since_start": 16.0,
+        "Age": 33.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Thomas Ouwejan",
+        "Position": "D",
+        "Minutes_played": 84.0,
+        "Day_since_start": 16.0,
+        "Age": 21.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Fredrik Midtsj\u00f8",
+        "Position": "M",
+        "Minutes_played": 90.0,
+        "Day_since_start": 16.0,
+        "Age": 25.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Guus Til",
+        "Position": "M",
+        "Minutes_played": 90.0,
+        "Day_since_start": 16.0,
+        "Age": 20.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Teun Koopmeiners",
+        "Position": "M",
+        "Minutes_played": 90.0,
+        "Day_since_start": 16.0,
+        "Age": 20.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Mats Seuntjens",
+        "Position": "A",
+        "Minutes_played": 73.0,
+        "Day_since_start": 16.0,
+        "Age": 26.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Myron Boadu",
+        "Position": "A",
+        "Minutes_played": 65.0,
+        "Day_since_start": 16.0,
+        "Age": 17.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Oussama Idrissi",
+        "Position": "A",
+        "Minutes_played": 90.0,
+        "Day_since_start": 16.0,
+        "Age": 22.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Eduardo",
+        "Position": "G",
+        "Minutes_played": 90.0,
+        "Day_since_start": 16.0,
+        "Age": 35.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Vyacheslav Karavaev",
+        "Position": "D",
+        "Minutes_played": 90.0,
+        "Day_since_start": 16.0,
+        "Age": 23.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Maikel Van der Werff",
+        "Position": "D",
+        "Minutes_played": 90.0,
+        "Day_since_start": 16.0,
+        "Age": 29.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Jake Clarke-Salter",
+        "Position": "D",
+        "Minutes_played": 90.0,
+        "Day_since_start": 16.0,
+        "Age": 20.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Alexander B\u00fcttner",
+        "Position": "D",
+        "Minutes_played": 90.0,
+        "Day_since_start": 16.0,
+        "Age": 29.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Thulani Serero",
+        "Position": "M",
+        "Minutes_played": 90.0,
+        "Day_since_start": 16.0,
+        "Age": 28.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Mat\u00fa\u0161 Bero",
+        "Position": "M",
+        "Minutes_played": 75.0,
+        "Day_since_start": 16.0,
+        "Age": 22.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Navarone Foor",
+        "Position": "M",
+        "Minutes_played": 90.0,
+        "Day_since_start": 16.0,
+        "Age": 26.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Roy Beerens",
+        "Position": "A",
+        "Minutes_played": 65.0,
+        "Day_since_start": 16.0,
+        "Age": 30.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Tim Matavz",
+        "Position": "A",
+        "Minutes_played": 79.0,
+        "Day_since_start": 16.0,
+        "Age": 29.0,
+        "Injured": "No"
+    },
+    {
+        "Name": "Bryan Linssen",
+        "Position": "A",
+        "Minutes_played": 90.0,
+        "Day_since_start": 16.0,
+        "Age": 27.0,
+        "Injured": "No"
+    }
+]

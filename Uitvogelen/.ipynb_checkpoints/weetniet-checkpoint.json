@@ -1,0 +1,1234 @@
+[
+    {
+        "Name": "Onana",
+        "Position": "Goalkeeper",
+        "Match_number": 1.0,
+        "Match_minutes": 90.0,
+        "Injuried": "No"
+    },
+    {
+        "Name": "Mazraoui",
+        "Position": "Defender",
+        "Match_number": 1.0,
+        "Match_minutes": 90.0,
+        "Injuried": "No"
+    },
+    {
+        "Name": "Ligt",
+        "Position": "Defender",
+        "Match_number": 1.0,
+        "Match_minutes": 90.0,
+        "Injuried": "No"
+    },
+    {
+        "Name": "Blind",
+        "Position": "Defender",
+        "Match_number": 1.0,
+        "Match_minutes": 90.0,
+        "Injuried": "No"
+    },
+    {
+        "Name": "W\u00f6ber",
+        "Position": "Defender",
+        "Match_number": 1.0,
+        "Match_minutes": 56.0,
+        "Injuried": "Yes"
+    },
+    {
+        "Name": "Eiting",
+        "Position": "Midfielder",
+        "Match_number": 1.0,
+        "Match_minutes": 90.0,
+        "Injuried": "No"
+    },
+    {
+        "Name": "Ziyech",
+        "Position": "Midfielder",
+        "Match_number": 1.0,
+        "Match_minutes": 90.0,
+        "Injuried": "No"
+    },
+    {
+        "Name": "Beek",
+        "Position": "Midfielder",
+        "Match_number": 1.0,
+        "Match_minutes": 90.0,
+        "Injuried": "No"
+    },
+    {
+        "Name": "Tadi\u0107",
+        "Position": "Midfielder",
+        "Match_number": 1.0,
+        "Match_minutes": 90.0,
+        "Injuried": "No"
+    },
+    {
+        "Name": "Sierhuis",
+        "Position": "Attacker",
+        "Match_number": 1.0,
+        "Match_minutes": 56.0,
+        "Injuried": "No"
+    },
+    {
+        "Name": "Neres",
+        "Position": "Attacker",
+        "Match_number": 1.0,
+        "Match_minutes": 85.0,
+        "Injuried": "No"
+    },
+    {
+        "Name": "Onana",
+        "Position": "Goalkeeper",
+        "Match_number": 3.0,
+        "Match_minutes": 90.0,
+        "Injuried": "No"
+    },
+    {
+        "Name": "Kristensen",
+        "Position": "Defender",
+        "Match_number": 3.0,
+        "Match_minutes": 90.0,
+        "Injuried": "No"
+    },
+    {
+        "Name": "Ligt",
+        "Position": "Defender",
+        "Match_number": 3.0,
+        "Match_minutes": 90.0,
+        "Injuried": "No"
+    },
+    {
+        "Name": "Blind",
+        "Position": "Defender",
+        "Match_number": 3.0,
+        "Match_minutes": 90.0,
+        "Injuried": "No"
+    },
+    {
+        "Name": "Tagliafico",
+        "Position": "Defender",
+        "Match_number": 3.0,
+        "Match_minutes": 90.0,
+        "Injuried": "No"
+    },
+    {
+        "Name": "Beek",
+        "Position": "Midfielder",
+        "Match_number": 3.0,
+        "Match_minutes": 90.0,
+        "Injuried": "No"
+    },
+    {
+        "Name": "Eiting",
+        "Position": "Midfielder",
+        "Match_number": 3.0,
+        "Match_minutes": 90.0,
+        "Injuried": "No"
+    },
+    {
+        "Name": "Jong",
+        "Position": "Midfielder",
+        "Match_number": 3.0,
+        "Match_minutes": 64.0,
+        "Injuried": "No"
+    },
+    {
+        "Name": "Ziyech",
+        "Position": "Midfielder",
+        "Match_number": 3.0,
+        "Match_minutes": 78.0,
+        "Injuried": "No"
+    },
+    {
+        "Name": "Huntelaar",
+        "Position": "Attacker",
+        "Match_number": 3.0,
+        "Match_minutes": 64.0,
+        "Injuried": "No"
+    },
+    {
+        "Name": "Tadi\u0107",
+        "Position": "Midfielder",
+        "Match_number": 3.0,
+        "Match_minutes": 90.0,
+        "Injuried": "No"
+    },
+    {
+        "Name": "Onana",
+        "Position": "Goalkeeper",
+        "Match_number": 4.0,
+        "Match_minutes": 90.0,
+        "Injuried": "No"
+    },
+    {
+        "Name": "Mazraoui",
+        "Position": "Defender",
+        "Match_number": 4.0,
+        "Match_minutes": 90.0,
+        "Injuried": "No"
+    },
+    {
+        "Name": "Ligt",
+        "Position": "Defender",
+        "Match_number": 4.0,
+        "Match_minutes": 90.0,
+        "Injuried": "No"
+    },
+    {
+        "Name": "Blind",
+        "Position": "Defender",
+        "Match_number": 4.0,
+        "Match_minutes": 65.0,
+        "Injuried": "No"
+    },
+    {
+        "Name": "Tagliafico",
+        "Position": "Defender",
+        "Match_number": 4.0,
+        "Match_minutes": 90.0,
+        "Injuried": "No"
+    },
+    {
+        "Name": "Sch\u00f6ne",
+        "Position": "Midfielder",
+        "Match_number": 4.0,
+        "Match_minutes": 90.0,
+        "Injuried": "No"
+    },
+    {
+        "Name": "Neres",
+        "Position": "Attacker",
+        "Match_number": 4.0,
+        "Match_minutes": 60.0,
+        "Injuried": "No"
+    },
+    {
+        "Name": "Jong",
+        "Position": "Midfielder",
+        "Match_number": 4.0,
+        "Match_minutes": 70.0,
+        "Injuried": "No"
+    },
+    {
+        "Name": "Ziyech",
+        "Position": "Midfielder",
+        "Match_number": 4.0,
+        "Match_minutes": 90.0,
+        "Injuried": "No"
+    },
+    {
+        "Name": "Huntelaar",
+        "Position": "Attacker",
+        "Match_number": 4.0,
+        "Match_minutes": 90.0,
+        "Injuried": "No"
+    },
+    {
+        "Name": "Tadi\u0107",
+        "Position": "Midfielder",
+        "Match_number": 4.0,
+        "Match_minutes": 90.0,
+        "Injuried": "No"
+    },
+    {
+        "Name": "Onana",
+        "Position": "Goalkeeper",
+        "Match_number": 5.0,
+        "Match_minutes": 90.0,
+        "Injuried": "No"
+    },
+    {
+        "Name": "Mazraoui",
+        "Position": "Defender",
+        "Match_number": 5.0,
+        "Match_minutes": 90.0,
+        "Injuried": "No"
+    },
+    {
+        "Name": "Ligt",
+        "Position": "Defender",
+        "Match_number": 5.0,
+        "Match_minutes": 90.0,
+        "Injuried": "No"
+    },
+    {
+        "Name": "Blind",
+        "Position": "Defender",
+        "Match_number": 5.0,
+        "Match_minutes": 90.0,
+        "Injuried": "No"
+    },
+    {
+        "Name": "Tagliafico",
+        "Position": "Defender",
+        "Match_number": 5.0,
+        "Match_minutes": 90.0,
+        "Injuried": "No"
+    },
+    {
+        "Name": "Sch\u00f6ne",
+        "Position": "Midfielder",
+        "Match_number": 5.0,
+        "Match_minutes": 77.0,
+        "Injuried": "No"
+    },
+    {
+        "Name": "Neres",
+        "Position": "Attacker",
+        "Match_number": 5.0,
+        "Match_minutes": 90.0,
+        "Injuried": "No"
+    },
+    {
+        "Name": "Jong",
+        "Position": "Midfielder",
+        "Match_number": 5.0,
+        "Match_minutes": 90.0,
+        "Injuried": "No"
+    },
+    {
+        "Name": "Ziyech",
+        "Position": "Midfielder",
+        "Match_number": 5.0,
+        "Match_minutes": 90.0,
+        "Injuried": "No"
+    },
+    {
+        "Name": "Huntelaar",
+        "Position": "Attacker",
+        "Match_number": 5.0,
+        "Match_minutes": 90.0,
+        "Injuried": "No"
+    },
+    {
+        "Name": "Tadi\u0107",
+        "Position": "Midfielder",
+        "Match_number": 5.0,
+        "Match_minutes": 79.0,
+        "Injuried": "No"
+    },
+    {
+        "Name": "Onana",
+        "Position": "Goalkeeper",
+        "Match_number": 6.0,
+        "Match_minutes": 90.0,
+        "Injuried": "No"
+    },
+    {
+        "Name": "Mazraoui",
+        "Position": "Defender",
+        "Match_number": 6.0,
+        "Match_minutes": 90.0,
+        "Injuried": "No"
+    },
+    {
+        "Name": "Jong",
+        "Position": "Midfielder",
+        "Match_number": 6.0,
+        "Match_minutes": 90.0,
+        "Injuried": "No"
+    },
+    {
+        "Name": "Blind",
+        "Position": "Defender",
+        "Match_number": 6.0,
+        "Match_minutes": 90.0,
+        "Injuried": "No"
+    },
+    {
+        "Name": "Tagliafico",
+        "Position": "Defender",
+        "Match_number": 6.0,
+        "Match_minutes": 90.0,
+        "Injuried": "No"
+    },
+    {
+        "Name": "Sch\u00f6ne",
+        "Position": "Midfielder",
+        "Match_number": 6.0,
+        "Match_minutes": 46.0,
+        "Injuried": "No"
+    },
+    {
+        "Name": "Neres",
+        "Position": "Attacker",
+        "Match_number": 6.0,
+        "Match_minutes": 83.0,
+        "Injuried": "No"
+    },
+    {
+        "Name": "Eiting",
+        "Position": "Midfielder",
+        "Match_number": 6.0,
+        "Match_minutes": 90.0,
+        "Injuried": "No"
+    },
+    {
+        "Name": "Ziyech",
+        "Position": "Midfielder",
+        "Match_number": 6.0,
+        "Match_minutes": 90.0,
+        "Injuried": "No"
+    },
+    {
+        "Name": "Huntelaar",
+        "Position": "Attacker",
+        "Match_number": 6.0,
+        "Match_minutes": 46.0,
+        "Injuried": "No"
+    },
+    {
+        "Name": "Tadi\u0107",
+        "Position": "Midfielder",
+        "Match_number": 6.0,
+        "Match_minutes": 90.0,
+        "Injuried": "No"
+    },
+    {
+        "Name": "Onana",
+        "Position": "Goalkeeper",
+        "Match_number": 7.0,
+        "Match_minutes": 90.0,
+        "Injuried": "No"
+    },
+    {
+        "Name": "Mazraoui",
+        "Position": "Defender",
+        "Match_number": 7.0,
+        "Match_minutes": 90.0,
+        "Injuried": "No"
+    },
+    {
+        "Name": "Ligt",
+        "Position": "Defender",
+        "Match_number": 7.0,
+        "Match_minutes": 90.0,
+        "Injuried": "No"
+    },
+    {
+        "Name": "Blind",
+        "Position": "Defender",
+        "Match_number": 7.0,
+        "Match_minutes": 90.0,
+        "Injuried": "No"
+    },
+    {
+        "Name": "Tagliafico",
+        "Position": "Defender",
+        "Match_number": 7.0,
+        "Match_minutes": 90.0,
+        "Injuried": "No"
+    },
+    {
+        "Name": "Sch\u00f6ne",
+        "Position": "Midfielder",
+        "Match_number": 7.0,
+        "Match_minutes": 90.0,
+        "Injuried": "No"
+    },
+    {
+        "Name": "Neres",
+        "Position": "Attacker",
+        "Match_number": 7.0,
+        "Match_minutes": 55.0,
+        "Injuried": "No"
+    },
+    {
+        "Name": "Eiting",
+        "Position": "Midfielder",
+        "Match_number": 7.0,
+        "Match_minutes": 79.0,
+        "Injuried": "No"
+    },
+    {
+        "Name": "Ziyech",
+        "Position": "Midfielder",
+        "Match_number": 7.0,
+        "Match_minutes": 90.0,
+        "Injuried": "No"
+    },
+    {
+        "Name": "Huntelaar",
+        "Position": "Attacker",
+        "Match_number": 7.0,
+        "Match_minutes": 46.0,
+        "Injuried": "No"
+    },
+    {
+        "Name": "Tadi\u0107",
+        "Position": "Midfielder",
+        "Match_number": 7.0,
+        "Match_minutes": 90.0,
+        "Injuried": "No"
+    },
+    {
+        "Name": "Onana",
+        "Position": "Goalkeeper",
+        "Match_number": 8.0,
+        "Match_minutes": 90.0,
+        "Injuried": "No"
+    },
+    {
+        "Name": "Mazraoui",
+        "Position": "Defender",
+        "Match_number": 8.0,
+        "Match_minutes": 90.0,
+        "Injuried": "No"
+    },
+    {
+        "Name": "Ligt",
+        "Position": "Defender",
+        "Match_number": 8.0,
+        "Match_minutes": 90.0,
+        "Injuried": "No"
+    },
+    {
+        "Name": "W\u00f6ber",
+        "Position": "Defender",
+        "Match_number": 8.0,
+        "Match_minutes": 81.0,
+        "Injuried": "No"
+    },
+    {
+        "Name": "Tagliafico",
+        "Position": "Defender",
+        "Match_number": 8.0,
+        "Match_minutes": 90.0,
+        "Injuried": "No"
+    },
+    {
+        "Name": "Sch\u00f6ne",
+        "Position": "Midfielder",
+        "Match_number": 8.0,
+        "Match_minutes": 90.0,
+        "Injuried": "No"
+    },
+    {
+        "Name": "Beek",
+        "Position": "Midfielder",
+        "Match_number": 8.0,
+        "Match_minutes": 90.0,
+        "Injuried": "No"
+    },
+    {
+        "Name": "Blind",
+        "Position": "Defender",
+        "Match_number": 8.0,
+        "Match_minutes": 71.0,
+        "Injuried": "No"
+    },
+    {
+        "Name": "Ziyech",
+        "Position": "Midfielder",
+        "Match_number": 8.0,
+        "Match_minutes": 90.0,
+        "Injuried": "No"
+    },
+    {
+        "Name": "Dolberg",
+        "Position": "Attacker",
+        "Match_number": 8.0,
+        "Match_minutes": 60.0,
+        "Injuried": "No"
+    },
+    {
+        "Name": "Tadi\u0107",
+        "Position": "Midfielder",
+        "Match_number": 8.0,
+        "Match_minutes": 90.0,
+        "Injuried": "No"
+    },
+    {
+        "Name": "Onana",
+        "Position": "Goalkeeper",
+        "Match_number": 9.0,
+        "Match_minutes": 90.0,
+        "Injuried": "No"
+    },
+    {
+        "Name": "Kristensen",
+        "Position": "Defender",
+        "Match_number": 9.0,
+        "Match_minutes": 90.0,
+        "Injuried": "No"
+    },
+    {
+        "Name": "Ligt",
+        "Position": "Defender",
+        "Match_number": 9.0,
+        "Match_minutes": 90.0,
+        "Injuried": "No"
+    },
+    {
+        "Name": "W\u00f6ber",
+        "Position": "Defender",
+        "Match_number": 9.0,
+        "Match_minutes": 90.0,
+        "Injuried": "No"
+    },
+    {
+        "Name": "Blind",
+        "Position": "Defender",
+        "Match_number": 9.0,
+        "Match_minutes": 90.0,
+        "Injuried": "No"
+    },
+    {
+        "Name": "Sch\u00f6ne",
+        "Position": "Midfielder",
+        "Match_number": 9.0,
+        "Match_minutes": 90.0,
+        "Injuried": "No"
+    },
+    {
+        "Name": "Beek",
+        "Position": "Midfielder",
+        "Match_number": 9.0,
+        "Match_minutes": 90.0,
+        "Injuried": "No"
+    },
+    {
+        "Name": "Jong",
+        "Position": "Midfielder",
+        "Match_number": 9.0,
+        "Match_minutes": 71.0,
+        "Injuried": "No"
+    },
+    {
+        "Name": "Ziyech",
+        "Position": "Midfielder",
+        "Match_number": 9.0,
+        "Match_minutes": 57.0,
+        "Injuried": "No"
+    },
+    {
+        "Name": "Dolberg",
+        "Position": "Attacker",
+        "Match_number": 9.0,
+        "Match_minutes": 57.0,
+        "Injuried": "No"
+    },
+    {
+        "Name": "Tadi\u0107",
+        "Position": "Midfielder",
+        "Match_number": 9.0,
+        "Match_minutes": 90.0,
+        "Injuried": "No"
+    },
+    {
+        "Name": "Onana",
+        "Position": "Goalkeeper",
+        "Match_number": 10.0,
+        "Match_minutes": 90.0,
+        "Injuried": "No"
+    },
+    {
+        "Name": "Mazraoui",
+        "Position": "Defender",
+        "Match_number": 10.0,
+        "Match_minutes": 90.0,
+        "Injuried": "No"
+    },
+    {
+        "Name": "Ligt",
+        "Position": "Defender",
+        "Match_number": 10.0,
+        "Match_minutes": 90.0,
+        "Injuried": "No"
+    },
+    {
+        "Name": "Blind",
+        "Position": "Defender",
+        "Match_number": 10.0,
+        "Match_minutes": 90.0,
+        "Injuried": "No"
+    },
+    {
+        "Name": "Tagliafico",
+        "Position": "Defender",
+        "Match_number": 10.0,
+        "Match_minutes": 90.0,
+        "Injuried": "No"
+    },
+    {
+        "Name": "Sch\u00f6ne",
+        "Position": "Midfielder",
+        "Match_number": 10.0,
+        "Match_minutes": 46.0,
+        "Injuried": "No"
+    },
+    {
+        "Name": "Beek",
+        "Position": "Midfielder",
+        "Match_number": 10.0,
+        "Match_minutes": 86.0,
+        "Injuried": "No"
+    },
+    {
+        "Name": "Jong",
+        "Position": "Midfielder",
+        "Match_number": 10.0,
+        "Match_minutes": 90.0,
+        "Injuried": "No"
+    },
+    {
+        "Name": "Ziyech",
+        "Position": "Midfielder",
+        "Match_number": 10.0,
+        "Match_minutes": 90.0,
+        "Injuried": "No"
+    },
+    {
+        "Name": "Dolberg",
+        "Position": "Attacker",
+        "Match_number": 10.0,
+        "Match_minutes": 64.0,
+        "Injuried": "No"
+    },
+    {
+        "Name": "Tadi\u0107",
+        "Position": "Midfielder",
+        "Match_number": 10.0,
+        "Match_minutes": 90.0,
+        "Injuried": "No"
+    },
+    {
+        "Name": "Onana",
+        "Position": "Goalkeeper",
+        "Match_number": 11.0,
+        "Match_minutes": 90.0,
+        "Injuried": "No"
+    },
+    {
+        "Name": "Mazraoui",
+        "Position": "Defender",
+        "Match_number": 11.0,
+        "Match_minutes": 90.0,
+        "Injuried": "No"
+    },
+    {
+        "Name": "Ligt",
+        "Position": "Defender",
+        "Match_number": 11.0,
+        "Match_minutes": 90.0,
+        "Injuried": "No"
+    },
+    {
+        "Name": "Blind",
+        "Position": "Defender",
+        "Match_number": 11.0,
+        "Match_minutes": 90.0,
+        "Injuried": "No"
+    },
+    {
+        "Name": "Tagliafico",
+        "Position": "Defender",
+        "Match_number": 11.0,
+        "Match_minutes": 90.0,
+        "Injuried": "No"
+    },
+    {
+        "Name": "Sch\u00f6ne",
+        "Position": "Midfielder",
+        "Match_number": 11.0,
+        "Match_minutes": 67.0,
+        "Injuried": "No"
+    },
+    {
+        "Name": "Neres",
+        "Position": "Attacker",
+        "Match_number": 11.0,
+        "Match_minutes": 90.0,
+        "Injuried": "No"
+    },
+    {
+        "Name": "Jong",
+        "Position": "Midfielder",
+        "Match_number": 11.0,
+        "Match_minutes": 90.0,
+        "Injuried": "No"
+    },
+    {
+        "Name": "Ziyech",
+        "Position": "Midfielder",
+        "Match_number": 11.0,
+        "Match_minutes": 86.0,
+        "Injuried": "No"
+    },
+    {
+        "Name": "Dolberg",
+        "Position": "Attacker",
+        "Match_number": 11.0,
+        "Match_minutes": 54.0,
+        "Injuried": "No"
+    },
+    {
+        "Name": "Tadi\u0107",
+        "Position": "Midfielder",
+        "Match_number": 11.0,
+        "Match_minutes": 90.0,
+        "Injuried": "No"
+    },
+    {
+        "Name": "Onana",
+        "Position": "Goalkeeper",
+        "Match_number": 12.0,
+        "Match_minutes": 90.0,
+        "Injuried": "No"
+    },
+    {
+        "Name": "Mazraoui",
+        "Position": "Defender",
+        "Match_number": 12.0,
+        "Match_minutes": 46.0,
+        "Injuried": "No"
+    },
+    {
+        "Name": "Ligt",
+        "Position": "Defender",
+        "Match_number": 12.0,
+        "Match_minutes": 90.0,
+        "Injuried": "No"
+    },
+    {
+        "Name": "Blind",
+        "Position": "Defender",
+        "Match_number": 12.0,
+        "Match_minutes": 90.0,
+        "Injuried": "No"
+    },
+    {
+        "Name": "Tagliafico",
+        "Position": "Defender",
+        "Match_number": 12.0,
+        "Match_minutes": 90.0,
+        "Injuried": "No"
+    },
+    {
+        "Name": "Sch\u00f6ne",
+        "Position": "Midfielder",
+        "Match_number": 12.0,
+        "Match_minutes": 90.0,
+        "Injuried": "No"
+    },
+    {
+        "Name": "Beek",
+        "Position": "Midfielder",
+        "Match_number": 12.0,
+        "Match_minutes": 90.0,
+        "Injuried": "No"
+    },
+    {
+        "Name": "Jong",
+        "Position": "Midfielder",
+        "Match_number": 12.0,
+        "Match_minutes": 62.0,
+        "Injuried": "No"
+    },
+    {
+        "Name": "Ziyech",
+        "Position": "Midfielder",
+        "Match_number": 12.0,
+        "Match_minutes": 90.0,
+        "Injuried": "No"
+    },
+    {
+        "Name": "Dolberg",
+        "Position": "Attacker",
+        "Match_number": 12.0,
+        "Match_minutes": 90.0,
+        "Injuried": "No"
+    },
+    {
+        "Name": "Tadi\u0107",
+        "Position": "Midfielder",
+        "Match_number": 12.0,
+        "Match_minutes": 74.0,
+        "Injuried": "No"
+    },
+    {
+        "Name": "Onana",
+        "Position": "Goalkeeper",
+        "Match_number": 13.0,
+        "Match_minutes": 90.0,
+        "Injuried": "No"
+    },
+    {
+        "Name": "Mazraoui",
+        "Position": "Defender",
+        "Match_number": 13.0,
+        "Match_minutes": 90.0,
+        "Injuried": "No"
+    },
+    {
+        "Name": "Ligt",
+        "Position": "Defender",
+        "Match_number": 13.0,
+        "Match_minutes": 90.0,
+        "Injuried": "No"
+    },
+    {
+        "Name": "Blind",
+        "Position": "Defender",
+        "Match_number": 13.0,
+        "Match_minutes": 90.0,
+        "Injuried": "No"
+    },
+    {
+        "Name": "Tagliafico",
+        "Position": "Defender",
+        "Match_number": 13.0,
+        "Match_minutes": 90.0,
+        "Injuried": "No"
+    },
+    {
+        "Name": "Sch\u00f6ne",
+        "Position": "Midfielder",
+        "Match_number": 13.0,
+        "Match_minutes": 90.0,
+        "Injuried": "No"
+    },
+    {
+        "Name": "Beek",
+        "Position": "Midfielder",
+        "Match_number": 13.0,
+        "Match_minutes": 46.0,
+        "Injuried": "No"
+    },
+    {
+        "Name": "Jong",
+        "Position": "Midfielder",
+        "Match_number": 13.0,
+        "Match_minutes": 90.0,
+        "Injuried": "No"
+    },
+    {
+        "Name": "Neres",
+        "Position": "Attacker",
+        "Match_number": 13.0,
+        "Match_minutes": 90.0,
+        "Injuried": "No"
+    },
+    {
+        "Name": "Dolberg",
+        "Position": "Attacker",
+        "Match_number": 13.0,
+        "Match_minutes": 81.0,
+        "Injuried": "No"
+    },
+    {
+        "Name": "Tadi\u0107",
+        "Position": "Midfielder",
+        "Match_number": 13.0,
+        "Match_minutes": 90.0,
+        "Injuried": "No"
+    },
+    {
+        "Name": "Onana",
+        "Position": "Goalkeeper",
+        "Match_number": 14.0,
+        "Match_minutes": 90.0,
+        "Injuried": "No"
+    },
+    {
+        "Name": "Mazraoui",
+        "Position": "Defender",
+        "Match_number": 14.0,
+        "Match_minutes": 90.0,
+        "Injuried": "No"
+    },
+    {
+        "Name": "Ligt",
+        "Position": "Defender",
+        "Match_number": 14.0,
+        "Match_minutes": 90.0,
+        "Injuried": "No"
+    },
+    {
+        "Name": "Blind",
+        "Position": "Defender",
+        "Match_number": 14.0,
+        "Match_minutes": 90.0,
+        "Injuried": "No"
+    },
+    {
+        "Name": "Tagliafico",
+        "Position": "Defender",
+        "Match_number": 14.0,
+        "Match_minutes": 90.0,
+        "Injuried": "No"
+    },
+    {
+        "Name": "Labyad",
+        "Position": "Attacker",
+        "Match_number": 14.0,
+        "Match_minutes": 79.0,
+        "Injuried": "No"
+    },
+    {
+        "Name": "Beek",
+        "Position": "Midfielder",
+        "Match_number": 14.0,
+        "Match_minutes": 59.0,
+        "Injuried": "No"
+    },
+    {
+        "Name": "Jong",
+        "Position": "Midfielder",
+        "Match_number": 14.0,
+        "Match_minutes": 90.0,
+        "Injuried": "No"
+    },
+    {
+        "Name": "Neres",
+        "Position": "Attacker",
+        "Match_number": 14.0,
+        "Match_minutes": 90.0,
+        "Injuried": "No"
+    },
+    {
+        "Name": "Huntelaar",
+        "Position": "Attacker",
+        "Match_number": 14.0,
+        "Match_minutes": 69.0,
+        "Injuried": "No"
+    },
+    {
+        "Name": "Tadi\u0107",
+        "Position": "Midfielder",
+        "Match_number": 14.0,
+        "Match_minutes": 90.0,
+        "Injuried": "No"
+    },
+    {
+        "Name": "Onana",
+        "Position": "Goalkeeper",
+        "Match_number": 15.0,
+        "Match_minutes": 41.0,
+        "Injuried": "No"
+    },
+    {
+        "Name": "Mazraoui",
+        "Position": "Defender",
+        "Match_number": 15.0,
+        "Match_minutes": 90.0,
+        "Injuried": "No"
+    },
+    {
+        "Name": "Ligt",
+        "Position": "Defender",
+        "Match_number": 15.0,
+        "Match_minutes": 90.0,
+        "Injuried": "No"
+    },
+    {
+        "Name": "Blind",
+        "Position": "Defender",
+        "Match_number": 15.0,
+        "Match_minutes": 90.0,
+        "Injuried": "No"
+    },
+    {
+        "Name": "Tagliafico",
+        "Position": "Defender",
+        "Match_number": 15.0,
+        "Match_minutes": 90.0,
+        "Injuried": "No"
+    },
+    {
+        "Name": "Sch\u00f6ne",
+        "Position": "Midfielder",
+        "Match_number": 15.0,
+        "Match_minutes": 79.0,
+        "Injuried": "No"
+    },
+    {
+        "Name": "Beek",
+        "Position": "Midfielder",
+        "Match_number": 15.0,
+        "Match_minutes": 33.0,
+        "Injuried": "No"
+    },
+    {
+        "Name": "Jong",
+        "Position": "Midfielder",
+        "Match_number": 15.0,
+        "Match_minutes": 90.0,
+        "Injuried": "No"
+    },
+    {
+        "Name": "Neres",
+        "Position": "Attacker",
+        "Match_number": 15.0,
+        "Match_minutes": 90.0,
+        "Injuried": "No"
+    },
+    {
+        "Name": "Huntelaar",
+        "Position": "Attacker",
+        "Match_number": 15.0,
+        "Match_minutes": 90.0,
+        "Injuried": "No"
+    },
+    {
+        "Name": "Tadi\u0107",
+        "Position": "Midfielder",
+        "Match_number": 15.0,
+        "Match_minutes": 90.0,
+        "Injuried": "No"
+    },
+    {
+        "Name": "Onana",
+        "Position": "Goalkeeper",
+        "Match_number": 16.0,
+        "Match_minutes": 90.0,
+        "Injuried": "No"
+    },
+    {
+        "Name": "Mazraoui",
+        "Position": "Defender",
+        "Match_number": 16.0,
+        "Match_minutes": 59.0,
+        "Injuried": "No"
+    },
+    {
+        "Name": "Ligt",
+        "Position": "Defender",
+        "Match_number": 16.0,
+        "Match_minutes": 90.0,
+        "Injuried": "No"
+    },
+    {
+        "Name": "Blind",
+        "Position": "Defender",
+        "Match_number": 16.0,
+        "Match_minutes": 90.0,
+        "Injuried": "No"
+    },
+    {
+        "Name": "Tagliafico",
+        "Position": "Defender",
+        "Match_number": 16.0,
+        "Match_minutes": 90.0,
+        "Injuried": "No"
+    },
+    {
+        "Name": "Sch\u00f6ne",
+        "Position": "Midfielder",
+        "Match_number": 16.0,
+        "Match_minutes": 90.0,
+        "Injuried": "No"
+    },
+    {
+        "Name": "Beek",
+        "Position": "Midfielder",
+        "Match_number": 16.0,
+        "Match_minutes": 90.0,
+        "Injuried": "No"
+    },
+    {
+        "Name": "Jong",
+        "Position": "Midfielder",
+        "Match_number": 16.0,
+        "Match_minutes": 90.0,
+        "Injuried": "No"
+    },
+    {
+        "Name": "Ziyech",
+        "Position": "Midfielder",
+        "Match_number": 16.0,
+        "Match_minutes": 72.0,
+        "Injuried": "No"
+    },
+    {
+        "Name": "Dolberg",
+        "Position": "Attacker",
+        "Match_number": 16.0,
+        "Match_minutes": 90.0,
+        "Injuried": "No"
+    },
+    {
+        "Name": "Tadi\u0107",
+        "Position": "Midfielder",
+        "Match_number": 16.0,
+        "Match_minutes": 59.0,
+        "Injuried": "No"
+    },
+    {
+        "Name": "Onana",
+        "Position": "Goalkeeper",
+        "Match_number": 17.0,
+        "Match_minutes": 90.0,
+        "Injuried": "No"
+    },
+    {
+        "Name": "Mazraoui",
+        "Position": "Defender",
+        "Match_number": 17.0,
+        "Match_minutes": 90.0,
+        "Injuried": "No"
+    },
+    {
+        "Name": "Ligt",
+        "Position": "Defender",
+        "Match_number": 17.0,
+        "Match_minutes": 90.0,
+        "Injuried": "No"
+    },
+    {
+        "Name": "Blind",
+        "Position": "Defender",
+        "Match_number": 17.0,
+        "Match_minutes": 90.0,
+        "Injuried": "No"
+    },
+    {
+        "Name": "W\u00f6ber",
+        "Position": "Defender",
+        "Match_number": 17.0,
+        "Match_minutes": 61.0,
+        "Injuried": "No"
+    },
+    {
+        "Name": "Sch\u00f6ne",
+        "Position": "Midfielder",
+        "Match_number": 17.0,
+        "Match_minutes": 90.0,
+        "Injuried": "No"
+    },
+    {
+        "Name": "Beek",
+        "Position": "Midfielder",
+        "Match_number": 17.0,
+        "Match_minutes": 90.0,
+        "Injuried": "No"
+    },
+    {
+        "Name": "Jong",
+        "Position": "Midfielder",
+        "Match_number": 17.0,
+        "Match_minutes": 90.0,
+        "Injuried": "No"
+    },
+    {
+        "Name": "Ziyech",
+        "Position": "Midfielder",
+        "Match_number": 17.0,
+        "Match_minutes": 90.0,
+        "Injuried": "No"
+    },
+    {
+        "Name": "Dolberg",
+        "Position": "Attacker",
+        "Match_number": 17.0,
+        "Match_minutes": 90.0,
+        "Injuried": "No"
+    },
+    {
+        "Name": "Tadi\u0107",
+        "Position": "Midfielder",
+        "Match_number": 17.0,
+        "Match_minutes": 90.0,
+        "Injuried": "No"
+    }
+]
